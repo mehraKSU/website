@@ -12,10 +12,10 @@ output: html_document
 <br>
 
 ### Teaching assistance
-##### At Department of Plant Pathology, [NCSU](www.ncsu.edu)
+##### At Department of Plant Pathology, [NCSU](https://www.ncsu.edu/)
 - PP 318 (Forest Pathology) in Spring 2014.
 - PP 315 (Principles of Plant Pathology) in Fall 2013.
 - PP 590 (Field Plant Pathology in NC) during Fall 2012.
 
-##### At Department of Plant Pathology, [UGA](www.uga.edu)
+##### At Department of Plant Pathology, [UGA](https://www.uga.edu/)
 - Path 4400/6400 (Plant Pathology for Teachers) during Spring 2010.
