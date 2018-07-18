@@ -7,7 +7,9 @@ navbar:
       href: teaching.html
     - text: "Publications"
       href: publications.html
-
+  right:
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/lmehra
 output:
   html_document:
     highlight: textmate
