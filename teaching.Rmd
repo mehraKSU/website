@@ -2,6 +2,8 @@
 output: html_document
 ---
 
+<br>
+
 ### Current instructional activities
 - Principles of plant pathology (PLPTH 500) at Kansas State University (offered every spring semester)
 - Developing an **Introduction to R** workshop with [Dr. Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart)
