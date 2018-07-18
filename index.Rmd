@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website"
+title: "Lucky Mehra"
 ---
 <link rel="stylesheet" href="style.css" type="text/css">
 
@@ -9,7 +9,7 @@ I am an instructor in the Department of Plant Pathology at Kansas State Universi
 
 I am a plant disease epidemiologist by training. I worked on epidemiology of Septoria nodorum blotch during my PhD from North Carolina State University, Raleigh. In my MS, I worked on postharvest diseases of blueberry and pomegranate at University of Georgia, Athens.
 
-In addition to plant pathology, I love data analysis and programming in R, SAS, and python. In my free time, I enjoy reading news (mainly technology news), watching TV, hiking, singing rhymes with my daughter, and gardening.
+In addition to plant pathology, I love data analysis and programming in R, SAS, and python. In my free time, I enjoy reading news (mainly technology), watching TV, hiking, singing rhymes with my daughter, and gardening.
 
-My complete curriculum vitae can be found [here](files/Mehra_Lucky_CV.pdf)
+My complete curriculum vitae can be found [here](files/Mehra_Lucky_CV.pdf).
 
