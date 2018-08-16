@@ -1,8 +1,0 @@
----
----
-
-### Plant Disease Lesson
-- [Septoria nodorum blotch of wheat](https://peerj.com/preprints/27039/)
-
-### Plant Disease Epidemiology
-- Teaching excercises in R Studio (work in progress)
