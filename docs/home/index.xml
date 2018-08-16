@@ -37,8 +37,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography I am an instructor in the Department of Plant Pathology at Kansas State University, Manhattan, KS. I teach Principles of Plant Pathology (PLPTH 500) that is offered every spring semester. This is a fundamental course in plant pathology that introduces students to nature of plant pathogens and to cause, effect, and management of plant diseases. I also coordinate undergraduate minor in plant pathology.
+I am a plant disease epidemiologist by training.</description>
     </item>
     
     <item>
@@ -65,7 +65,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/publications/</guid>
-      <description></description>
+      <description>Mehra, L., Adhikari, U., Cowger, C., and Ojiambo, P. S. 2018. Septoria nodorum blotch of wheat. PeerJ Preprints 6:e27039v2 link
+ Cowger, C., Mehra, L., Arellano, C., Meyers, E., and Murphy, J. P. 2017. Virulence differences in Blumeria graminis f. sp. tritici from the central and eastern United States. Phytopathology 108:402–411. link
+ Ojiambo, P. S., Gent, D. H., Mehra, L. K., Christie, D., and Magarey, R. 2017. Focus expansion and stability of the spread parameter estimate of the power law model for dispersal gradients.</description>
     </item>
     
     <item>
@@ -110,9 +112,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>Current instructional activities  Principles of plant pathology (PLPTH 500) at Kansas State University (offered every spring semester). Developing an Introduction to R workshop with Dr. Sydney Everhart. Creating plant disease epidemiology excercises in R in collaboration with Tim Todd.  Teaching assistance At Department of Plant Pathology, NCSU  PP 318 (Forest Pathology) in Spring 2014. PP 315 (Principles of Plant Pathology) in Fall 2013. PP 590 (Field Plant Pathology in NC) during Fall 2012.</description>
     </item>
     
     <item>

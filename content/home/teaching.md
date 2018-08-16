@@ -15,14 +15,17 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+### Current instructional activities
+- Principles of plant pathology (PLPTH 500) at Kansas State University (offered every spring semester).
+- Developing an **Introduction to R** workshop with [Dr. Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart).
+- Creating plant disease epidemiology excercises in R in collaboration with [Tim Todd](https://www.plantpath.k-state.edu/people/faculty/todd-timothy/index.html).
 
-I am a teaching instructor for the following courses at University X:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+### Teaching assistance
+##### At Department of Plant Pathology, [NCSU](https://www.ncsu.edu/)
+- PP 318 (Forest Pathology) in Spring 2014.
+- PP 315 (Principles of Plant Pathology) in Fall 2013.
+- PP 590 (Field Plant Pathology in NC) during Fall 2012.
+
+##### At Department of Plant Pathology, [UGA](https://www.uga.edu/)
+- Path 4400/6400 (Plant Pathology for Teachers) during Spring 2010.
