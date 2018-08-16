@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Lucky Mehra</title>
+    <link>/website/home/</link>
+    <description>Recent content in Homes on Lucky Mehra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Lucky Mehra 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/website/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/website/home/hero_carousel/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/website/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/website/home/about/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/about/</guid>
+      <description>Biography I am an instructor in the Department of Plant Pathology at Kansas State University, Manhattan, KS. I teach Principles of Plant Pathology (PLPTH 500) that is offered every spring semester. This is a fundamental course in plant pathology that introduces students to nature of plant pathogens and to cause, effect, and management of plant diseases. I also coordinate undergraduate minor in plant pathology.
+I am a plant disease epidemiologist by training.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/website/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/website/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/teaching/</guid>
+      <description>Current instructional activities  Principles of plant pathology (PLPTH 500) at Kansas State University (offered every spring semester). Developing an Introduction to R workshop with Dr. Sydney Everhart. Creating plant disease epidemiology excercises in R in collaboration with Tim Todd.  Teaching assistance At Department of Plant Pathology, NCSU  PP 318 (Forest Pathology) in Spring 2014. PP 315 (Principles of Plant Pathology) in Fall 2013. PP 590 (Field Plant Pathology in NC) during Fall 2012.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/website/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/publications/</guid>
+      <description>Mehra, L., Adhikari, U., Cowger, C., and Ojiambo, P. S. 2018. Septoria nodorum blotch of wheat. PeerJ Preprints 6:e27039v2 link
+ Cowger, C., Mehra, L., Arellano, C., Meyers, E., and Murphy, J. P. 2017. Virulence differences in Blumeria graminis f. sp. tritici from the central and eastern United States. Phytopathology 108:402–411. link
+ Ojiambo, P. S., Gent, D. H., Mehra, L. K., Christie, D., and Magarey, R. 2017. Focus expansion and stability of the spread parameter estimate of the power law model for dispersal gradients.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/website/home/skills/</link>
+      <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/website/home/skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selected Talks</title>
+      <link>/website/home/talks_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/talks_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/website/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/website/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/website/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/website/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>/website/home/search/</link>
+      <pubDate>Mon, 23 Jul 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/website/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/website/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
