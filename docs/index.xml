@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lucky Mehra on Lucky Mehra</title>
-    <link>https://mehraksu.github.io/website/</link>
+    <link>/</link>
     <description>Recent content in Lucky Mehra on Lucky Mehra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Lucky Mehra 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
-    <atom:link href="/website/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://mehraksu.github.io/website/privacy/</link>
+      <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://mehraksu.github.io/website/privacy/</guid>
+      <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
