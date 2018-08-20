@@ -19,6 +19,7 @@ weight = 10
 - Principles of plant pathology (PLPTH 500) at Kansas State University (offered every spring semester).
 - Developing an **Introduction to R** workshop with [Dr. Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart).
 - Creating plant disease epidemiology excercises in R in collaboration with [Tim Todd](https://www.plantpath.k-state.edu/people/faculty/todd-timothy/index.html).
+- Teaching a lab section of Crop Diseases (PLPTH 585) with [Judy O'Mara](https://www.plantpath.k-state.edu/people/faculty/omara/)
 
 
 ### Teaching assistance

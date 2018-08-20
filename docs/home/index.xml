@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Lucky Mehra</title>
-    <link>/home/</link>
+    <link>https://mehraksu.github.io/website/home/</link>
     <description>Recent content in Homes on Lucky Mehra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mehraksu.github.io/website/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/home/hero_carousel/</link>
+      <link>https://mehraksu.github.io/website/home/hero_carousel/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
-      <guid>/home/hero_carousel/</guid>
+      <guid>https://mehraksu.github.io/website/home/hero_carousel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/home/hero/</link>
+      <link>https://mehraksu.github.io/website/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
-      <guid>/home/hero/</guid>
+      <guid>https://mehraksu.github.io/website/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>https://mehraksu.github.io/website/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/about/</guid>
+      <guid>https://mehraksu.github.io/website/home/about/</guid>
       <description>Biography I am an instructor in the Department of Plant Pathology at Kansas State University, Manhattan, KS. I teach Principles of Plant Pathology (PLPTH 500) that is offered every spring semester. This is a fundamental course in plant pathology that introduces students to nature of plant pathogens and to cause, effect, and management of plant diseases. I also coordinate undergraduate minor in plant pathology.
 I am a plant disease epidemiologist by training.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
+      <link>https://mehraksu.github.io/website/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/publications_selected/</guid>
+      <guid>https://mehraksu.github.io/website/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/home/teaching/</link>
+      <link>https://mehraksu.github.io/website/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/teaching/</guid>
-      <description>Current instructional activities  Principles of plant pathology (PLPTH 500) at Kansas State University (offered every spring semester). Developing an Introduction to R workshop with Dr. Sydney Everhart. Creating plant disease epidemiology excercises in R in collaboration with Tim Todd.  Teaching assistance At Department of Plant Pathology, NCSU  PP 318 (Forest Pathology) in Spring 2014. PP 315 (Principles of Plant Pathology) in Fall 2013. PP 590 (Field Plant Pathology in NC) during Fall 2012.</description>
+      <guid>https://mehraksu.github.io/website/home/teaching/</guid>
+      <description>Current instructional activities  Principles of plant pathology (PLPTH 500) at Kansas State University (offered every spring semester). Developing an Introduction to R workshop with Dr. Sydney Everhart. Creating plant disease epidemiology excercises in R in collaboration with Tim Todd. Teaching a lab section of Crop Diseases (PLPTH 585) with Judy O&amp;rsquo;Mara  Teaching assistance At Department of Plant Pathology, NCSU  PP 318 (Forest Pathology) in Spring 2014. PP 315 (Principles of Plant Pathology) in Fall 2013.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/home/skills/</link>
+      <link>https://mehraksu.github.io/website/home/skills/</link>
       <pubDate>Tue, 21 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/home/skills/</guid>
+      <guid>https://mehraksu.github.io/website/home/skills/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/home/publications/</link>
+      <link>https://mehraksu.github.io/website/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/publications/</guid>
-      <description>Mehra, L., Adhikari, U., Cowger, C., and Ojiambo, P. S. 2018. Septoria nodorum blotch of wheat. PeerJ Preprints 6:e27039v2 link
- Cowger, C., Mehra, L., Arellano, C., Meyers, E., and Murphy, J. P. 2017. Virulence differences in Blumeria graminis f. sp. tritici from the central and eastern United States. Phytopathology 108:402–411. link
- Ojiambo, P. S., Gent, D. H., Mehra, L. K., Christie, D., and Magarey, R. 2017. Focus expansion and stability of the spread parameter estimate of the power law model for dispersal gradients.</description>
+      <guid>https://mehraksu.github.io/website/home/publications/</guid>
+      <description>Sahayaraj, K., Subash, N., Allingham, R. W., Kumar, V., Avery, P. B., Mehra, L. K., McKenzie, C. L., Osborne, L. S. 2018. Lethal and sublethal effects of three microbial biocontrol agents on Spodoptera litura and its natural predator Rhynocoris kumarii. Insects. 9, 101. link
+ Mehra, L., Adhikari, U., Cowger, C., and Ojiambo, P. S. 2018. Septoria nodorum blotch of wheat. PeerJ Preprints 6:e27039v2 link
+ Cowger, C., Mehra, L.</description>
     </item>
     
     <item>
       <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
+      <link>https://mehraksu.github.io/website/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/talks_selected/</guid>
+      <guid>https://mehraksu.github.io/website/home/talks_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
+      <link>https://mehraksu.github.io/website/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/talks/</guid>
+      <guid>https://mehraksu.github.io/website/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>/home/posts/</link>
+      <link>https://mehraksu.github.io/website/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/posts/</guid>
+      <guid>https://mehraksu.github.io/website/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/home/projects/</link>
+      <link>https://mehraksu.github.io/website/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/projects/</guid>
+      <guid>https://mehraksu.github.io/website/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>/home/tags/</link>
+      <link>https://mehraksu.github.io/website/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
       
-      <guid>/home/tags/</guid>
+      <guid>https://mehraksu.github.io/website/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Search</title>
-      <link>/home/search/</link>
+      <link>https://mehraksu.github.io/website/home/search/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 -0500</pubDate>
       
-      <guid>/home/search/</guid>
+      <guid>https://mehraksu.github.io/website/home/search/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/home/contact/</link>
+      <link>https://mehraksu.github.io/website/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
-      <guid>/home/contact/</guid>
+      <guid>https://mehraksu.github.io/website/home/contact/</guid>
       <description></description>
     </item>
     
