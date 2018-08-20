@@ -34,7 +34,7 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
 I am an instructor in the Department of Plant Pathology at Kansas State University, Manhattan, KS. I teach Principles of Plant Pathology (PLPTH 500) that is offered every spring semester. This is a fundamental course in plant pathology that introduces students to nature of plant pathogens and to cause, effect, and management of plant diseases. I also coordinate [undergraduate minor in plant pathology](https://www.plantpath.k-state.edu/undergraduate/plant-path-minor.html).
 
