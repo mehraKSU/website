@@ -74,7 +74,7 @@ enableGitInfo = false
   organizations = [ { name = "Kansas State University", url = "https://www.k-state.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "mehra_portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "mehra_portrait_comp.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "luckymehra@ksu.edu"
   address = "4734 Throckmorton PSC, Kansas State University, Manhattan, KS 66506, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
