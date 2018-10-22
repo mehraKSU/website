@@ -89,7 +89,7 @@ I am a plant disease epidemiologist by training.</description>
   Statistics  Data Organization in Spreadsheets by Karl Broman and Kara Woo.
  Data wrangling, exploration, and analysis with R by Jenny Bryan.
  Hands-On Programming with R by Garrett Grolemund.
-  </description>
+ test  </description>
     </item>
     
     <item>
@@ -153,15 +153,6 @@ I am a plant disease epidemiologist by training.</description>
       
       <guid>/home/search/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/home/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/resources/</guid>
-      <description>code{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
     </item>
     
   </channel>
