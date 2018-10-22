@@ -29,4 +29,5 @@ weight = 10
 - PP 590 (Field Plant Pathology in NC) during Fall 2012.
 
 ##### At Department of Plant Pathology, [UGA](https://www.uga.edu/)
-- Path 4400/6400 (Plant Pathology for Teachers) during Spring 2010.
+- Path 4400/6400 (Plant Pathology for Teachers) during Spring 2010.  
+- test.  
