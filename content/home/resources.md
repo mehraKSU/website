@@ -24,5 +24,4 @@ weight = 20
 - [Data Organization in Spreadsheets](https://doi.org/10.1080/00031305.2017.1375989) by Karl Broman and Kara Woo.  
 - [Data wrangling, exploration, and analysis with R](http://stat545.com/index.html) by Jenny Bryan.  
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund.  
-- test
 

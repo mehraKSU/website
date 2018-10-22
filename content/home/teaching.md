@@ -30,4 +30,3 @@ weight = 10
 
 ##### At Department of Plant Pathology, [UGA](https://www.uga.edu/)
 - Path 4400/6400 (Plant Pathology for Teachers) during Spring 2010.  
-- test.  
