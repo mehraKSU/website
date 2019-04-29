@@ -15,6 +15,11 @@ weight = 10
 
 +++
 
+### Teaching credentials  
+<div class="iframe_container">
+  <iframe frameborder="0" scrolling="no" src="https://acue.credly.com/embed.html#/?member_badge_id=17656804"     width="180" height="230"> </iframe>  
+</div>  
+
 ### Current instructional activities
 * Principles of plant pathology (PLPTH 500) at Kansas State University (offered every spring semester).  
 * Lab teaching of Crop Diseases (PLPTH 585) with [Judy O'Mara](https://www.plantpath.k-state.edu/people/faculty/omara/) (offered every fall semester).  
