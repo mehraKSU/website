@@ -25,6 +25,8 @@ weight = 10
 * Lab teaching of Crop Diseases (PLPTH 585) with [Judy O'Mara](https://www.plantpath.k-state.edu/people/faculty/omara/) (offered every fall semester).  
 * Developing an **Introduction to R** workshop with [Dr. Sydney Everhart](https://plantpathology.unl.edu/sydney-everhart).  
     + [co-taught](https://everhartlab.github.io/IntroR_2019/) with Sydney Everhart and Nikita Gambhir at University of Nebraska, Lincoln on March 11th, 2019. 
+    + [taught](https://mehraksu.github.io/Intro_R_2019_REEU/) with Daljit Singh at Kansas State University, Manhattan on June 27th, 2019.
+    + [taught](https://mehraksu.github.io/Intro_R_2019_REEU/) to undergraduate students from ANGRAU, India on July 2nd, 2019.
 * Creating [plant disease epidemiology excercises in R](https://luckymehra.github.io/epidem-exercises/) in collaboration with [Tim Todd](https://www.plantpath.k-state.edu/people/faculty/todd-timothy/index.html).
 
 
