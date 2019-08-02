@@ -36,9 +36,15 @@ publication_type = "-1"
 exclude_selected = true
 +++
 
-10. Sahayaraj, K., Subash, N., Allingham, R. W., Kumar, V., Avery, P. B., **Mehra, L. K.,** McKenzie, C. L., Osborne, L. S. 2018. Lethal and sublethal effects of three microbial biocontrol agents on Spodoptera litura and its natural predator *Rhynocoris kumarii*. *Insects*. 9, 101. [link](https://doi.org/10.3390/insects9030101)
+13. Fulmer, A. M., **Mehra, L.,**, Kemerait, R., Brenneman, T., Culbreath, A., Stevenson, K. L., and Cantonwine, E. 2019. Relating Peanut Rx Risk Factors to Epidemics of Early and Late Leaf Spot of Peanut. *Plant Disease* [link](https://doi.org/10.1094/PDIS-10-18-1782-RE)
 
-9. **Mehra, L.,** Adhikari, U., Cowger, C., and Ojiambo, P. S. 2018. Septoria nodorum blotch of wheat. *PeerJ Preprints* 6:e27039v2 [link](https://doi.org/10.7287/peerj.preprints.27039v2)
+12. Aldridge, R., Jennings, K., Chaudhari, S., Monks, D., Everman, W., and **Mehra, L.** 2019. Tolerance of southern highbush and rabbiteye blueberry cultivars to saflufenacil. *Weed Technology*, 33 475-480. [link](https://doi.org/10.1017/wet.2018.115)
+
+11. **Mehra, L.,** Adhikari, U., Cowger, C., and Ojiambo, P. S. 2019. Septoria nodorum blotch of wheat. *Plant Health Instructor*. [link](https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/SeptoriaNodorum.aspx)
+
+10. Bucklew, J. K., Mitchem, W. E., Monks, D. W., Chaudhari, S., Jennings, K. M., and **Mehra, L. K.** 2018. Effects of Vegetation-Free Strip Width and Irrigation on Newly Planted Peach. *International Journal of Fruit Science* 19:75-90. [link](https://doi.org/10.1080/15538362.2018.1545622)
+
+9. Sahayaraj, K., Subash, N., Allingham, R. W., Kumar, V., Avery, P. B., **Mehra, L. K.,** McKenzie, C. L., Osborne, L. S. 2018. Lethal and sublethal effects of three microbial biocontrol agents on Spodoptera litura and its natural predator *Rhynocoris kumarii*. *Insects* 9, 101. [link](https://doi.org/10.3390/insects9030101)
 
 8. Cowger, C., **Mehra, L.,** Arellano, C., Meyers, E., and Murphy, J. P. 2017. Virulence differences in Blumeria graminis f. sp. tritici from the central and eastern United States. *Phytopathology* 108:402–411. [link](https://doi.org/10.1094/PHYTO-06-17-0211-R)
 

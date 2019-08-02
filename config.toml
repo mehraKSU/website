@@ -37,7 +37,7 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "search" ]
@@ -59,7 +59,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -290,7 +290,25 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Teaching"
+  weight = 2
+  identifier = "Teaching"
+
+[[menu.main]]
+  name = "Current activities"
   url = "#teaching"
+  weight = 1
+  parent = "Teaching"
+  
+[[menu.main]]
+  name = "Epidemiology in R"
+  url = "https://luckymehra.github.io/epidem-exercises/"
+  parent = "Teaching"
+  weight = 3
+
+[[menu.main]]
+  name = "Intro to R"
+  url = "https://mehraksu.github.io/Intro_R_2019_REEU/"
+  parent = "Teaching"
   weight = 2
 
 [[menu.main]]
