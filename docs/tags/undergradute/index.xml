@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>undergradute on Lucky Mehra</title>
+    <link>/tags/undergradute/</link>
+    <description>Recent content in undergradute on Lucky Mehra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Lucky Mehra 2019</copyright>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/undergradute/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis of REEU surveys</title>
+      <link>/post/analysis-of-reeu-surveys/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/analysis-of-reeu-surveys/</guid>
+      <description>Pre-surveyHigh rated questionsQuestions that were rated 4 and higher by students on a scale of 1 to 5. 1 = Not at all, 2 = Just a little, 3 = Somewhat, 4 = A lot, 5 = A great deal.
+Full question text is in the following talbe:
+question_numberquestion_prefixquestion_textmedian21Presently, I am in the habit ofConnecting key ideas I learn in my classes with other knowledge and situations420Presently, I amWilling to seek help from others (professor, peers) when working on a scientific problem518Presently, I amInterested in discussing agriculture and related sciences with others517Presently, I amInterested in discussing science with friends or family515Presently, I canWork effectively with others422Presently, I am in the habit ofUsing systematic reasoning in my approach to problems416Presently, I amEnthusiastic about scientific research514Presently, I canManage my time413Presently, I canUnderstand journal articles4Medium rated questionsQuestions to which most students responded 3 and up on a scale of 1 to 5.</description>
+    </item>
+    
+  </channel>
+</rss>

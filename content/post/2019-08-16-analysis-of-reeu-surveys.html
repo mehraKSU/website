@@ -1,0 +1,1673 @@
+---
+title: Analysis of REEU surveys
+author: Lucky Mehra
+date: '2019-08-16'
+slug: analysis-of-reeu-surveys
+categories: []
+tags:
+  - reeu
+  - undergradute
+  - research
+  - extension
+  - rstats
+  - rmarkdown
+authors: []
+header:
+  caption: ''
+  image: ''
+  preview: yes
+---
+
+<script src="/rmarkdown-libs/kePrint/kePrint.js"></script>
+
+
+<div id="pre-survey" class="section level2">
+<h2>Pre-survey</h2>
+<div id="high-rated-questions" class="section level3">
+<h3>High rated questions</h3>
+<p>Questions that were rated 4 and higher by students on a scale of 1 to 5. <code>1</code> = Not at all, <code>2</code> = Just a little, <code>3</code> = Somewhat, <code>4</code> = A lot, <code>5</code> = A great deal.</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/pre-survey-split-1.png" width="672" /></p>
+<p>Full question text is in the following talbe:</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+question_number
+</th>
+<th style="text-align:left;">
+question_prefix
+</th>
+<th style="text-align:left;">
+question_text
+</th>
+<th style="text-align:right;">
+median
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+21
+</td>
+<td style="text-align:left;">
+Presently, I am in the habit of
+</td>
+<td style="text-align:left;">
+Connecting key ideas I learn in my classes with other knowledge and situations
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+20
+</td>
+<td style="text-align:left;">
+Presently, I am
+</td>
+<td style="text-align:left;">
+Willing to seek help from others (professor, peers) when working on a scientific problem
+</td>
+<td style="text-align:right;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+18
+</td>
+<td style="text-align:left;">
+Presently, I am
+</td>
+<td style="text-align:left;">
+Interested in discussing agriculture and related sciences with others
+</td>
+<td style="text-align:right;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+17
+</td>
+<td style="text-align:left;">
+Presently, I am
+</td>
+<td style="text-align:left;">
+Interested in discussing science with friends or family
+</td>
+<td style="text-align:right;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+15
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Work effectively with others
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+22
+</td>
+<td style="text-align:left;">
+Presently, I am in the habit of
+</td>
+<td style="text-align:left;">
+Using systematic reasoning in my approach to problems
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+16
+</td>
+<td style="text-align:left;">
+Presently, I am
+</td>
+<td style="text-align:left;">
+Enthusiastic about scientific research
+</td>
+<td style="text-align:right;">
+5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+14
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Manage my time
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+13
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Understand journal articles
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="medium-rated-questions" class="section level3">
+<h3>Medium rated questions</h3>
+<p>Questions to which most students responded 3 and up on a scale of 1 to 5. <code>1</code> = Not at all, <code>2</code> = Just a little, <code>3</code> = Somewhat, <code>4</code> = A lot, <code>5</code> = A great deal.</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<p>Full question text is in the following talbe:</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+question_number
+</th>
+<th style="text-align:left;">
+question_prefix
+</th>
+<th style="text-align:left;">
+question_text
+</th>
+<th style="text-align:right;">
+median
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+27
+</td>
+<td style="text-align:left;">
+At this time, I plan to
+</td>
+<td style="text-align:left;">
+Work in a science lab
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:left;">
+Presently, I am
+</td>
+<td style="text-align:left;">
+Confident that I can do research and/or extension in plant pathology or genetics
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Make observations in the lab or greenhouse or field
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+9
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Keep a detailed lab notebook
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+24
+</td>
+<td style="text-align:left;">
+At this time, I plan to
+</td>
+<td style="text-align:left;">
+Enroll in a MS program in agricultural or related sciences
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Explain scientific concepts to non-scientists
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+12
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Calibrate instruments needed for measurements
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Make oral presentations
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+Presently, I understand
+</td>
+<td style="text-align:left;">
+How to analyze data and interpret results
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Write scientific reports or papers
+</td>
+<td style="text-align:right;">
+3.0
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="low-rated-questions" class="section level3">
+<h3>Low rated questions</h3>
+<p>Questions to which most student responded 1 or 2 on a scale of 1 to 5. <code>1</code> = Not at all, <code>2</code> = Just a little, <code>3</code> = Somewhat, <code>4</code> = A lot, <code>5</code> = A great deal.</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
+<p>Full question text is in the following talbe:</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+question_number
+</th>
+<th style="text-align:left;">
+question_prefix
+</th>
+<th style="text-align:left;">
+question_text
+</th>
+<th style="text-align:right;">
+median
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+23
+</td>
+<td style="text-align:left;">
+At this time, I plan to
+</td>
+<td style="text-align:left;">
+Enroll in a Ph.D. program in agricultural or related sciences
+</td>
+<td style="text-align:right;">
+2.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+11
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Use statistics to analyze data
+</td>
+<td style="text-align:right;">
+3.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:left;">
+Presently, I can
+</td>
+<td style="text-align:left;">
+Prepare a scientific poster
+</td>
+<td style="text-align:right;">
+3.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:left;">
+Presently, I understand
+</td>
+<td style="text-align:left;">
+How to identify limitations of research methods and designs
+</td>
+<td style="text-align:right;">
+3.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+Presently, I understand
+</td>
+<td style="text-align:left;">
+How to develop a research question that can be answered with data
+</td>
+<td style="text-align:right;">
+3.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+26
+</td>
+<td style="text-align:left;">
+At this time, I plan to
+</td>
+<td style="text-align:left;">
+Enroll in a program to earn a different profession degree (i.e. law, veterinary medicine etc.)
+</td>
+<td style="text-align:right;">
+1.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+25
+</td>
+<td style="text-align:left;">
+At this time, I plan to
+</td>
+<td style="text-align:left;">
+Enroll in a medical or dental program
+</td>
+<td style="text-align:right;">
+1.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+Presently, I understand
+</td>
+<td style="text-align:left;">
+How to figure out the next step in a research project
+</td>
+<td style="text-align:right;">
+3.0
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="text-entry-questions" class="section level3">
+<h3>Text entry questions</h3>
+<p><strong>Answers to question # 28:</strong> <em>What do you expect to understand at the end of this research experience that you do not understand now?</em></p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Student responses
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+How to conduct sustainable agriculture field research, or any kind of field research at all
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+more about research process, poster making, other professional aspects of lab work
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I expect to understand as well learn how to be more efficient in the lab. I also want to learn how to present my research and make posters
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I expect that I will better understand how research projects are started in the modern world
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Lab safety procedures, knowledge of genetic research
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+How to prepare and present scientific research
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Actually be able to analyze data from research I have performed
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+The differences between various types of research (e.g. field vs. Lab) and how the results are viewed/used in academics versus industry
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Answers to question # 29:</strong> <em>What do you expect to be able to do at the end of the internship that you do not know how to do at this point?</em></p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Student responses
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Field Research
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+use RNAi, make poster, understand all of processes involved with RNAi
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I expect that I will better be able to apply mathematics and statistics to observed data
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Use laboratory techniques to identify wheat genes
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Perform statistical analysis to interpret experimental data
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Go about research and be able to become more versed in presenting information
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Collect, analyze, and translate data
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Answers to question # 30:</strong> <em>Please comment on your present level of interest in agriculture and related sciences.</em></p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Student responses
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+I am very interested in agriculture and related sciences. I think this topic is of the utmost importance for the future of our world.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+very interested, key to future
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I plan to become a plant pathologist in the future, so therefore I am very interested in the agriculture field and related sciences
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I am currently very interested in the plant sciences
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Very high
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I love botany, but am especially interested in crop science!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I am very interested in biological subjects
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I have a high interest in agriculuture and environmental science. After I graduate, I want to have a career that involves both fields and incorporates educating the public on current issues.
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="post-survey" class="section level2">
+<h2>Post survey</h2>
+<div id="question-1-through-19" class="section level3">
+<h3>Question 1 through 19</h3>
+<p>Scale: <code>1</code> = No gain, <code>2</code> = A little gain, <code>3</code> = Moderate gain, <code>4</code> = Good gain, <code>5</code> = Great gain</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q1-19-1.png" width="672" /></p>
+<p>Full question text of questions 1 through 19 is in the following table:</p>
+<p>Question prefix = How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+question_number
+</th>
+<th style="text-align:left;">
+question_text
+</th>
+<th style="text-align:right;">
+median
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+11
+</td>
+<td style="text-align:left;">
+Understanding what everyday research work is like
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+5
+</td>
+<td style="text-align:left;">
+Understanding the relevance of research to my coursework
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+2
+</td>
+<td style="text-align:left;">
+Figuring out the next step in a research project
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+17
+</td>
+<td style="text-align:left;">
+Conducting observations in the lab, greenhouse, or field
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+9
+</td>
+<td style="text-align:left;">
+Ability to work independently
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+8
+</td>
+<td style="text-align:left;">
+Comfort in working collaboratively with others
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+7
+</td>
+<td style="text-align:left;">
+Comfort in discussing scientific concepts with others
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+6
+</td>
+<td style="text-align:left;">
+Confidence in my ability to contribute to science
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+15
+</td>
+<td style="text-align:left;">
+Preparing a scientific poster
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+14
+</td>
+<td style="text-align:left;">
+Explaining my project to people outside my field
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+13
+</td>
+<td style="text-align:left;">
+Making oral presentations
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+4
+</td>
+<td style="text-align:left;">
+Identifying limitations of research methods and designs
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+3
+</td>
+<td style="text-align:left;">
+Formulating a research question that can be answered with data
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+1
+</td>
+<td style="text-align:left;">
+Analyzing data for patterns
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+19
+</td>
+<td style="text-align:left;">
+Understanding journal articles
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+18
+</td>
+<td style="text-align:left;">
+Using statistics to analyze data
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+16
+</td>
+<td style="text-align:left;">
+Keeping a detailed lab notebook
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+12
+</td>
+<td style="text-align:left;">
+Writing scientific reports or papers
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+10
+</td>
+<td style="text-align:left;">
+Developing patience with slow pace of research
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="question-20-through-25" class="section level3">
+<h3>Question 20 through 25</h3>
+<p>Scale: <code>1</code> = None, <code>2</code> = A little, <code>3</code> = Some, <code>4</code> = A fair amount, <code>5</code> = A great deal</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q20-25-1.png" width="672" /></p>
+<p>Full question text of questions 20 through 25 is in the following table:</p>
+<p>Question prefix = During your research/extension experience, how much did you?</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+question_number
+</th>
+<th style="text-align:left;">
+question_text
+</th>
+<th style="text-align:right;">
+median
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+21
+</td>
+<td style="text-align:left;">
+Feel like a scientist
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+20
+</td>
+<td style="text-align:left;">
+Engage in real-world science research
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+25
+</td>
+<td style="text-align:left;">
+Feel part of the scientific community
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+24
+</td>
+<td style="text-align:left;">
+Work extra hours because you were excited about the project
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+23
+</td>
+<td style="text-align:left;">
+Feel responsible for the project
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+22
+</td>
+<td style="text-align:left;">
+Try out new ideas or procedures on your own
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="question-26-through-29" class="section level3">
+<h3>Question 26 through 29</h3>
+<p>Scale: <code>1</code> = Poor, <code>2</code> = Fair, <code>3</code> = Good, <code>4</code> = Excellent</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q26-29-1.png" width="672" /></p>
+<p>Full question text of questions 26 through 29 is in the following table:</p>
+<p>Question prefix = Please rate the following</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+question_number
+</th>
+<th style="text-align:left;">
+question_text
+</th>
+<th style="text-align:right;">
+median
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+29
+</td>
+<td style="text-align:left;">
+The overall research/extension experience
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+28
+</td>
+<td style="text-align:left;">
+The advice my research/extension mentor provided about career or graduate school
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+27
+</td>
+<td style="text-align:left;">
+My working relationship with research/extension group members
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+26
+</td>
+<td style="text-align:left;">
+My working relationship with my research/extension mentor(s)
+</td>
+<td style="text-align:right;">
+4
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="question-30-through-33" class="section level3">
+<h3>Question 30 through 33</h3>
+<p>Scale: <code>1</code> = Not more likely, <code>2</code> = A little more likely, <code>3</code> = Somewhat more likely, <code>4</code> = Much more likely, <code>5</code> = Extremely more likely</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q30-33-1.png" width="672" /></p>
+<p>Full question text of questions 30 through 33 is in the following table:</p>
+<p>Question prefix = Compared to your intentions before participating in this REEU, how likely are you now to?</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+question_number
+</th>
+<th style="text-align:left;">
+question_text
+</th>
+<th style="text-align:right;">
+median
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+31
+</td>
+<td style="text-align:left;">
+Enroll in a M.S. program in agricultural and related sciences
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+33
+</td>
+<td style="text-align:left;">
+Work in a science lab
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+30
+</td>
+<td style="text-align:left;">
+Enroll in a Ph.D. program in agricultural and related sciences
+</td>
+<td style="text-align:right;">
+3.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+32
+</td>
+<td style="text-align:left;">
+Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)
+</td>
+<td style="text-align:right;">
+1.0
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="question-34-through-38" class="section level3">
+<h3>Question 34 through 38</h3>
+<p>Scale: <code>1</code> = Very dissatisfied, <code>2</code> = Somewhat dissatisfied, <code>3</code> = Somewhat satisfied, <code>4</code> = Very satisfied</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q34-38-1.png" width="672" /></p>
+<p>Full question text of questions 34 through 38 is in the following table:</p>
+<p>Question prefix = How satisfied were you with the following aspects of the research program?</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:right;">
+question_number
+</th>
+<th style="text-align:left;">
+question_text
+</th>
+<th style="text-align:right;">
+median
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:right;">
+38
+</td>
+<td style="text-align:left;">
+Group social activities
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+37
+</td>
+<td style="text-align:left;">
+Financial support
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+36
+</td>
+<td style="text-align:left;">
+Support and guidance from other research group members
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+34
+</td>
+<td style="text-align:left;">
+Support and guidance from the REEU program coordinator, Dr. Mehra
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+35
+</td>
+<td style="text-align:left;">
+Support and guidance from your research/extension mentor
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="text-entry-questions-post-survey" class="section level3">
+<h3>Text entry questions (Post survey)</h3>
+<p><strong>Answers to question:</strong> <em>What would have made your research experience better?</em></p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Student responses
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+More social group activities. Otherwise that that I think everything else was phenomenal.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+There is nothing I can think of at this time.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Nothing! Anything I wanted to do, I did and was guided on. Very fun and rewarding!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I wish my mentor would have been more involved and that I could have conducted original research or formulate my own research question. Being included in lab activities outside of my project would help keep me busy.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I wish I had more time!! I wanted to learn more about research poster “creating” and writing research articles.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Having a more “defined” area of research to come up with a project from. At the start of the program, there was a broad spectrum to choose from and kind of gave my research a late/slow start.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+grad seminars to be optional
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Answers to question:</strong> <em>What would improve the REEU, overall?</em></p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Student responses
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Adding more activities. Overall, the program has been a huge help for me in deciding whether or not I liked research and want to pursue grad school. I really enjoyed this opportunity.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+There isn’t much that hasn’t already been discussed in the oral session.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+This program was great! Honestly I don’t have anything that I really just did not like. It was a fantastic experience! Thank you!!!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+More interaction with other programs, I think that’s honestly it. This program was excellent, and I cannot stress that enough!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I think more activities with other programs would be nice.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+More diversity (from different universities, 1890, 1862, …..); Help with time management.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I don’t know, it was great
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+more regular schedule to plan things in advance more easily
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="post-survey-mentors" class="section level2">
+<h2>Post survey (Mentors)</h2>
+<div id="rating-style-questions" class="section level3">
+<h3>Rating style questions</h3>
+<p>Scale: <code>1</code> = No gain, <code>2</code> = A little gain, <code>3</code> = Moderate gain, <code>4</code> = Good gain, <code>5</code> = Great gain</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/import-data-1.png" width="672" /></p>
+<p>Full question text of above questions in the following table:</p>
+<p>Question prefix = How much did your student intern gain in the following areas as a result of their research/extension experience in summer 2019?</p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+question_num
+</th>
+<th style="text-align:left;">
+question_text
+</th>
+<th style="text-align:right;">
+median
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+Q2_14
+</td>
+<td style="text-align:left;">
+Conducting observations in the lab greenhouse or field
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_8
+</td>
+<td style="text-align:left;">
+Comfort in working collaboratively with others
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_12
+</td>
+<td style="text-align:left;">
+Preparing a scientific poster
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_11
+</td>
+<td style="text-align:left;">
+Understanding what everyday research work is like
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_7
+</td>
+<td style="text-align:left;">
+Comfort in discussing scientific concepts with others
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_1
+</td>
+<td style="text-align:left;">
+Analyzing data for patterns
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_13
+</td>
+<td style="text-align:left;">
+Keeping a detailed lab notebook
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_6
+</td>
+<td style="text-align:left;">
+Confidence in their ability to contribute to science
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_15
+</td>
+<td style="text-align:left;">
+Using statistics to analyze data
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_5
+</td>
+<td style="text-align:left;">
+Understanding the relevance of research to their coursework
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_4
+</td>
+<td style="text-align:left;">
+Identifying limitations of research methods and designs
+</td>
+<td style="text-align:right;">
+4.5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_9
+</td>
+<td style="text-align:left;">
+Ability to work independently
+</td>
+<td style="text-align:right;">
+5.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_3
+</td>
+<td style="text-align:left;">
+Formulating a research question that can be answered with data
+</td>
+<td style="text-align:right;">
+4.0
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_10
+</td>
+<td style="text-align:left;">
+Developing patience with slow pace of research
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_2
+</td>
+<td style="text-align:left;">
+Figuring out the next step in a research project
+</td>
+<td style="text-align:right;">
+3.5
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Q2_16
+</td>
+<td style="text-align:left;">
+Understanding journal articles
+</td>
+<td style="text-align:right;">
+3.0
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="text-entry-style-questions" class="section level3">
+<h3>Text entry style questions</h3>
+<p><strong>Answers to question:</strong> <em>What has been the most beneficial aspect of the REEU program for you?</em></p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Mentor responses
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+sharing research with undergrad and supporting interest in science.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+The most beneficial aspect of the REEU program was being matched with an enthusiastic and talented young scientist to mentor.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I really needed to hone my skills for “explicit teaching.” That gain in skills for me has paid off in other areas.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+It was a wonderful learning experience for me and has shown me that maybe teaching or mentoring others is something that I want to pursue in the future.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I learned how to establish a good relationship with my mentee, and how to make explanation for the project.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Working with undergrads at different levels, and training them with proper strategy to promote them improving.
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Answers to question:</strong> <em>What could be done to improve the program for you?</em></p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Mentor responses
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+have a postdoc or grad student as co-mentor who has a related project
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I would have like the program to last longer and involve less graduate school seminars.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I believe there should have been more social aspects for this program. Something that would help bring together not just mentees, but the mentors also. I do understand that some mentors may have been too busy.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+N/A
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+generally the program is good, maybe gather a little more info for applicants,such as a coverletter for intention, etc
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Answers to question:</strong> <em>What could be done to improve the program for students?</em></p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Mentor responses
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+run the length of the internship longer? Very hard to get in-depth projects finished in just few weeks.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I think making the graduate school seminars optional would have improved the program for my student, because it is not common for people in her field to go to grad school. It was often hard to tare her away from her experiments to go to those seminars.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I think more exposure would have been great: on social media, etc. I also think they would have benefited (or even found interesting labs to pursue) if either the hosting lab or the other labs had forums or seminars for either their post-docs or PIs. Something like the seminars Dr. Cook was in charge of last semester.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+N/A
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+maybe provide a detail instruction guide about life on campus and travel related info before they arrive, such as possible daily spending, reimbursement, etc
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Answers to question:</strong> <em>Is there anything else you would like to share with us about your experience as an REEU mentor?</em></p>
+<table class="table table-striped table-hover table-condensed table-responsive" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="text-align:left;">
+Mentor responses
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+I really enjoyed the REEU program. Everyone was wonderful to work with. I learned a lot in the mentor training session. We generated good data, had a lot of fun, and learned from each other. What a great experience!
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+It was a great experience. I had such a great student that I would consider hiring him as an MS student, or at the very least assisting him to find a good position suited to him.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+It was fun and interesting. My mentee and I were able to learn from each other and discuss potential plans in the future- either in academia or the industry.
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+N/A
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+NA
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="student-vs.-mentor-assessment" class="section level2">
+<h2>Student vs. mentor assessment</h2>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
+<p>Scale: <code>1</code> = No gain, <code>2</code> = A little gain, <code>3</code> = Moderate gain, <code>4</code> = Good gain, <code>5</code> = Great gain</p>
+<div id="pre-vs.-post-assessment" class="section level3">
+<h3>Pre vs. post assessment</h3>
+<p>There were 11 questions that were asked in both pre and post surveys. Let’s see if there is increase in rating for these questions as a result of the internship.</p>
+<p><img src="/post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/pre-post-1.png" width="672" /></p>
+</div>
+</div>

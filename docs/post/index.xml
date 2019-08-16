@@ -6,33 +6,21 @@
     <description>Recent content in Posts on Lucky Mehra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
+    <copyright>&amp;copy; Lucky Mehra 2019</copyright>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <title>Analysis of REEU surveys</title>
+      <link>/post/analysis-of-reeu-surveys/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/getting-started/</guid>
-      <description>Academic is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. Check out the latest demo of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the Quick Start guide or take a look at the Release Notes.
-
-Key features:
- Easily manage various content including homepage, blog posts, publications, talks, and projects Extensible via color themes and widgets/plugins Write in Markdown for easy formatting and code highlighting, with LaTeX for mathematical expressions Social/academic network linking, Google Analytics, and Disqus comments Responsive and mobile friendly Simple and refreshing one page design Multilingual and easy to customize  Color Themes Academic is available in different color themes and font themes.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/analysis-of-reeu-surveys/</guid>
+      <description>Pre-surveyHigh rated questionsQuestions that were rated 4 and higher by students on a scale of 1 to 5. 1 = Not at all, 2 = Just a little, 3 = Somewhat, 4 = A lot, 5 = A great deal.
+Full question text is in the following talbe:
+question_numberquestion_prefixquestion_textmedian21Presently, I am in the habit ofConnecting key ideas I learn in my classes with other knowledge and situations420Presently, I amWilling to seek help from others (professor, peers) when working on a scientific problem518Presently, I amInterested in discussing agriculture and related sciences with others517Presently, I amInterested in discussing science with friends or family515Presently, I canWork effectively with others422Presently, I am in the habit ofUsing systematic reasoning in my approach to problems416Presently, I amEnthusiastic about scientific research514Presently, I canManage my time413Presently, I canUnderstand journal articles4Medium rated questionsQuestions to which most students responded 3 and up on a scale of 1 to 5.</description>
     </item>
     
   </channel>

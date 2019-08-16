@@ -6,8 +6,1671 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Lucky Mehra 2019</copyright>
-    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Analysis of REEU surveys</title>
+      <link>/post/analysis-of-reeu-surveys/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/analysis-of-reeu-surveys/</guid>
+      <description>
+&lt;script src=&#34;./rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;pre-survey&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Pre-survey&lt;/h2&gt;
+&lt;div id=&#34;high-rated-questions&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;High rated questions&lt;/h3&gt;
+&lt;p&gt;Questions that were rated 4 and higher by students on a scale of 1 to 5. &lt;code&gt;1&lt;/code&gt; = Not at all, &lt;code&gt;2&lt;/code&gt; = Just a little, &lt;code&gt;3&lt;/code&gt; = Somewhat, &lt;code&gt;4&lt;/code&gt; = A lot, &lt;code&gt;5&lt;/code&gt; = A great deal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/pre-survey-split-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Full question text is in the following talbe:&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+question_number
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_prefix
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_text
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+median
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+21
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I am in the habit of
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Connecting key ideas I learn in my classes with other knowledge and situations
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I am
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Willing to seek help from others (professor, peers) when working on a scientific problem
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+18
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I am
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Interested in discussing agriculture and related sciences with others
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I am
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Interested in discussing science with friends or family
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Work effectively with others
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I am in the habit of
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Using systematic reasoning in my approach to problems
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I am
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Enthusiastic about scientific research
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Manage my time
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Understand journal articles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;medium-rated-questions&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Medium rated questions&lt;/h3&gt;
+&lt;p&gt;Questions to which most students responded 3 and up on a scale of 1 to 5. &lt;code&gt;1&lt;/code&gt; = Not at all, &lt;code&gt;2&lt;/code&gt; = Just a little, &lt;code&gt;3&lt;/code&gt; = Somewhat, &lt;code&gt;4&lt;/code&gt; = A lot, &lt;code&gt;5&lt;/code&gt; = A great deal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Full question text is in the following talbe:&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+question_number
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_prefix
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_text
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+median
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+At this time, I plan to
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Work in a science lab
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+19
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I am
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Confident that I can do research and/or extension in plant pathology or genetics
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Make observations in the lab or greenhouse or field
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Keep a detailed lab notebook
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+At this time, I plan to
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Enroll in a MS program in agricultural or related sciences
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Explain scientific concepts to non-scientists
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Calibrate instruments needed for measurements
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Make oral presentations
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I understand
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+How to analyze data and interpret results
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Write scientific reports or papers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;low-rated-questions&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Low rated questions&lt;/h3&gt;
+&lt;p&gt;Questions to which most student responded 1 or 2 on a scale of 1 to 5. &lt;code&gt;1&lt;/code&gt; = Not at all, &lt;code&gt;2&lt;/code&gt; = Just a little, &lt;code&gt;3&lt;/code&gt; = Somewhat, &lt;code&gt;4&lt;/code&gt; = A lot, &lt;code&gt;5&lt;/code&gt; = A great deal.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/unnamed-chunk-3-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Full question text is in the following talbe:&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+question_number
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_prefix
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_text
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+median
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+At this time, I plan to
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Enroll in a Ph.D. program in agricultural or related sciences
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Use statistics to analyze data
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I can
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Prepare a scientific poster
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I understand
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+How to identify limitations of research methods and designs
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I understand
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+How to develop a research question that can be answered with data
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+At this time, I plan to
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Enroll in a program to earn a different profession degree (i.e. law, veterinary medicine etc.)
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+At this time, I plan to
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Enroll in a medical or dental program
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Presently, I understand
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+How to figure out the next step in a research project
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;text-entry-questions&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Text entry questions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Answers to question # 28:&lt;/strong&gt; &lt;em&gt;What do you expect to understand at the end of this research experience that you do not understand now?&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Student responses
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+How to conduct sustainable agriculture field research, or any kind of field research at all
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+more about research process, poster making, other professional aspects of lab work
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I expect to understand as well learn how to be more efficient in the lab. I also want to learn how to present my research and make posters
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I expect that I will better understand how research projects are started in the modern world
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Lab safety procedures, knowledge of genetic research
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+How to prepare and present scientific research
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Actually be able to analyze data from research I have performed
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+The differences between various types of research (e.g. field vs. Lab) and how the results are viewed/used in academics versus industry
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Answers to question # 29:&lt;/strong&gt; &lt;em&gt;What do you expect to be able to do at the end of the internship that you do not know how to do at this point?&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Student responses
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Field Research
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+use RNAi, make poster, understand all of processes involved with RNAi
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I expect that I will better be able to apply mathematics and statistics to observed data
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Use laboratory techniques to identify wheat genes
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Perform statistical analysis to interpret experimental data
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Go about research and be able to become more versed in presenting information
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Collect, analyze, and translate data
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Answers to question # 30:&lt;/strong&gt; &lt;em&gt;Please comment on your present level of interest in agriculture and related sciences.&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Student responses
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I am very interested in agriculture and related sciences. I think this topic is of the utmost importance for the future of our world.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+very interested, key to future
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I plan to become a plant pathologist in the future, so therefore I am very interested in the agriculture field and related sciences
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I am currently very interested in the plant sciences
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Very high
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I love botany, but am especially interested in crop science!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I am very interested in biological subjects
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I have a high interest in agriculuture and environmental science. After I graduate, I want to have a career that involves both fields and incorporates educating the public on current issues.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;post-survey&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Post survey&lt;/h2&gt;
+&lt;div id=&#34;question-1-through-19&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Question 1 through 19&lt;/h3&gt;
+&lt;p&gt;Scale: &lt;code&gt;1&lt;/code&gt; = No gain, &lt;code&gt;2&lt;/code&gt; = A little gain, &lt;code&gt;3&lt;/code&gt; = Moderate gain, &lt;code&gt;4&lt;/code&gt; = Good gain, &lt;code&gt;5&lt;/code&gt; = Great gain&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q1-19-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Full question text of questions 1 through 19 is in the following table:&lt;/p&gt;
+&lt;p&gt;Question prefix = How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+question_number
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_text
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+median
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Understanding what everyday research work is like
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Understanding the relevance of research to my coursework
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Figuring out the next step in a research project
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+17
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Conducting observations in the lab, greenhouse, or field
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Ability to work independently
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Comfort in working collaboratively with others
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Comfort in discussing scientific concepts with others
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Confidence in my ability to contribute to science
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Preparing a scientific poster
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+14
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Explaining my project to people outside my field
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Making oral presentations
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Identifying limitations of research methods and designs
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Formulating a research question that can be answered with data
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Analyzing data for patterns
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+19
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Understanding journal articles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+18
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Using statistics to analyze data
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+16
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Keeping a detailed lab notebook
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Writing scientific reports or papers
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Developing patience with slow pace of research
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;question-20-through-25&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Question 20 through 25&lt;/h3&gt;
+&lt;p&gt;Scale: &lt;code&gt;1&lt;/code&gt; = None, &lt;code&gt;2&lt;/code&gt; = A little, &lt;code&gt;3&lt;/code&gt; = Some, &lt;code&gt;4&lt;/code&gt; = A fair amount, &lt;code&gt;5&lt;/code&gt; = A great deal&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q20-25-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Full question text of questions 20 through 25 is in the following table:&lt;/p&gt;
+&lt;p&gt;Question prefix = During your research/extension experience, how much did you?&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+question_number
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_text
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+median
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+21
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Feel like a scientist
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+20
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Engage in real-world science research
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+25
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Feel part of the scientific community
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+24
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Work extra hours because you were excited about the project
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+23
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Feel responsible for the project
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+22
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Try out new ideas or procedures on your own
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;question-26-through-29&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Question 26 through 29&lt;/h3&gt;
+&lt;p&gt;Scale: &lt;code&gt;1&lt;/code&gt; = Poor, &lt;code&gt;2&lt;/code&gt; = Fair, &lt;code&gt;3&lt;/code&gt; = Good, &lt;code&gt;4&lt;/code&gt; = Excellent&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q26-29-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Full question text of questions 26 through 29 is in the following table:&lt;/p&gt;
+&lt;p&gt;Question prefix = Please rate the following&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+question_number
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_text
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+median
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+29
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+The overall research/extension experience
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+28
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+The advice my research/extension mentor provided about career or graduate school
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+27
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+My working relationship with research/extension group members
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+26
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+My working relationship with my research/extension mentor(s)
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;question-30-through-33&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Question 30 through 33&lt;/h3&gt;
+&lt;p&gt;Scale: &lt;code&gt;1&lt;/code&gt; = Not more likely, &lt;code&gt;2&lt;/code&gt; = A little more likely, &lt;code&gt;3&lt;/code&gt; = Somewhat more likely, &lt;code&gt;4&lt;/code&gt; = Much more likely, &lt;code&gt;5&lt;/code&gt; = Extremely more likely&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q30-33-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Full question text of questions 30 through 33 is in the following table:&lt;/p&gt;
+&lt;p&gt;Question prefix = Compared to your intentions before participating in this REEU, how likely are you now to?&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+question_number
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_text
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+median
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+31
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Enroll in a M.S. program in agricultural and related sciences
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+33
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Work in a science lab
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+30
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Enroll in a Ph.D. program in agricultural and related sciences
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+32
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+1.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;question-34-through-38&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Question 34 through 38&lt;/h3&gt;
+&lt;p&gt;Scale: &lt;code&gt;1&lt;/code&gt; = Very dissatisfied, &lt;code&gt;2&lt;/code&gt; = Somewhat dissatisfied, &lt;code&gt;3&lt;/code&gt; = Somewhat satisfied, &lt;code&gt;4&lt;/code&gt; = Very satisfied&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/q34-38-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Full question text of questions 34 through 38 is in the following table:&lt;/p&gt;
+&lt;p&gt;Question prefix = How satisfied were you with the following aspects of the research program?&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+question_number
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_text
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+median
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+38
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Group social activities
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+37
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Financial support
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+36
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Support and guidance from other research group members
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+34
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Support and guidance from the REEU program coordinator, Dr. Mehra
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+35
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Support and guidance from your research/extension mentor
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;text-entry-questions-post-survey&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Text entry questions (Post survey)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Answers to question:&lt;/strong&gt; &lt;em&gt;What would have made your research experience better?&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Student responses
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+More social group activities. Otherwise that that I think everything else was phenomenal.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+There is nothing I can think of at this time.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Nothing! Anything I wanted to do, I did and was guided on. Very fun and rewarding!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I wish my mentor would have been more involved and that I could have conducted original research or formulate my own research question. Being included in lab activities outside of my project would help keep me busy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I wish I had more time!! I wanted to learn more about research poster “creating” and writing research articles.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Having a more “defined” area of research to come up with a project from. At the start of the program, there was a broad spectrum to choose from and kind of gave my research a late/slow start.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+grad seminars to be optional
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Answers to question:&lt;/strong&gt; &lt;em&gt;What would improve the REEU, overall?&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Student responses
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Adding more activities. Overall, the program has been a huge help for me in deciding whether or not I liked research and want to pursue grad school. I really enjoyed this opportunity.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+There isn’t much that hasn’t already been discussed in the oral session.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+This program was great! Honestly I don’t have anything that I really just did not like. It was a fantastic experience! Thank you!!!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+More interaction with other programs, I think that’s honestly it. This program was excellent, and I cannot stress that enough!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I think more activities with other programs would be nice.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+More diversity (from different universities, 1890, 1862, …..); Help with time management.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I don’t know, it was great
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+more regular schedule to plan things in advance more easily
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;post-survey-mentors&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Post survey (Mentors)&lt;/h2&gt;
+&lt;div id=&#34;rating-style-questions&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Rating style questions&lt;/h3&gt;
+&lt;p&gt;Scale: &lt;code&gt;1&lt;/code&gt; = No gain, &lt;code&gt;2&lt;/code&gt; = A little gain, &lt;code&gt;3&lt;/code&gt; = Moderate gain, &lt;code&gt;4&lt;/code&gt; = Good gain, &lt;code&gt;5&lt;/code&gt; = Great gain&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/import-data-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Full question text of above questions in the following table:&lt;/p&gt;
+&lt;p&gt;Question prefix = How much did your student intern gain in the following areas as a result of their research/extension experience in summer 2019?&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_num
+&lt;/th&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+question_text
+&lt;/th&gt;
+&lt;th style=&#34;text-align:right;&#34;&gt;
+median
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_14
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Conducting observations in the lab greenhouse or field
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_8
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Comfort in working collaboratively with others
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_12
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Preparing a scientific poster
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_11
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Understanding what everyday research work is like
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_7
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Comfort in discussing scientific concepts with others
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_1
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Analyzing data for patterns
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_13
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Keeping a detailed lab notebook
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_6
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Confidence in their ability to contribute to science
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_15
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Using statistics to analyze data
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_5
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Understanding the relevance of research to their coursework
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_4
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Identifying limitations of research methods and designs
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_9
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Ability to work independently
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+5.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_3
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Formulating a research question that can be answered with data
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+4.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_10
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Developing patience with slow pace of research
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_2
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Figuring out the next step in a research project
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.5
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Q2_16
+&lt;/td&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Understanding journal articles
+&lt;/td&gt;
+&lt;td style=&#34;text-align:right;&#34;&gt;
+3.0
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;div id=&#34;text-entry-style-questions&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Text entry style questions&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Answers to question:&lt;/strong&gt; &lt;em&gt;What has been the most beneficial aspect of the REEU program for you?&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Mentor responses
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+sharing research with undergrad and supporting interest in science.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+The most beneficial aspect of the REEU program was being matched with an enthusiastic and talented young scientist to mentor.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I really needed to hone my skills for “explicit teaching.” That gain in skills for me has paid off in other areas.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+It was a wonderful learning experience for me and has shown me that maybe teaching or mentoring others is something that I want to pursue in the future.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I learned how to establish a good relationship with my mentee, and how to make explanation for the project.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+Working with undergrads at different levels, and training them with proper strategy to promote them improving.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Answers to question:&lt;/strong&gt; &lt;em&gt;What could be done to improve the program for you?&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Mentor responses
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+have a postdoc or grad student as co-mentor who has a related project
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I would have like the program to last longer and involve less graduate school seminars.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I believe there should have been more social aspects for this program. Something that would help bring together not just mentees, but the mentors also. I do understand that some mentors may have been too busy.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+N/A
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+generally the program is good, maybe gather a little more info for applicants,such as a coverletter for intention, etc
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Answers to question:&lt;/strong&gt; &lt;em&gt;What could be done to improve the program for students?&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Mentor responses
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+run the length of the internship longer? Very hard to get in-depth projects finished in just few weeks.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I think making the graduate school seminars optional would have improved the program for my student, because it is not common for people in her field to go to grad school. It was often hard to tare her away from her experiments to go to those seminars.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I think more exposure would have been great: on social media, etc. I also think they would have benefited (or even found interesting labs to pursue) if either the hosting lab or the other labs had forums or seminars for either their post-docs or PIs. Something like the seminars Dr. Cook was in charge of last semester.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+N/A
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+maybe provide a detail instruction guide about life on campus and travel related info before they arrive, such as possible daily spending, reimbursement, etc
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Answers to question:&lt;/strong&gt; &lt;em&gt;Is there anything else you would like to share with us about your experience as an REEU mentor?&lt;/em&gt;&lt;/p&gt;
+&lt;table class=&#34;table table-striped table-hover table-condensed table-responsive&#34; style=&#34;margin-left: auto; margin-right: auto;&#34;&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left;&#34;&gt;
+Mentor responses
+&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+I really enjoyed the REEU program. Everyone was wonderful to work with. I learned a lot in the mentor training session. We generated good data, had a lot of fun, and learned from each other. What a great experience!
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+It was a great experience. I had such a great student that I would consider hiring him as an MS student, or at the very least assisting him to find a good position suited to him.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+It was fun and interesting. My mentee and I were able to learn from each other and discuss potential plans in the future- either in academia or the industry.
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+N/A
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left;&#34;&gt;
+NA
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;student-vs.-mentor-assessment&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Student vs. mentor assessment&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/unnamed-chunk-6-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Scale: &lt;code&gt;1&lt;/code&gt; = No gain, &lt;code&gt;2&lt;/code&gt; = A little gain, &lt;code&gt;3&lt;/code&gt; = Moderate gain, &lt;code&gt;4&lt;/code&gt; = Good gain, &lt;code&gt;5&lt;/code&gt; = Great gain&lt;/p&gt;
+&lt;div id=&#34;pre-vs.-post-assessment&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Pre vs. post assessment&lt;/h3&gt;
+&lt;p&gt;There were 11 questions that were asked in both pre and post surveys. Let’s see if there is increase in rating for these questions as a result of the internship.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./post/2019-08-16-analysis-of-reeu-surveys_files/figure-html/pre-post-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
