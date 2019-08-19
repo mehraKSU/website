@@ -41,7 +41,7 @@ pacman::p_load(tidyverse,
 
 ## Pre-survey
 
-```{r pre-survey, results='hide', echo=FALSE, message=FALSE}
+```{r pre-survey, results='hide', echo=FALSE, message=FALSE, cache=TRUE}
 # read the sheet from google drive
 REEU <- gs_title("student_assessment")
 
@@ -83,7 +83,7 @@ median_resp <- pre_reeu_data_num %>%
 
 Questions that were rated 4 and higher by students on a scale of 1 to 5. `1` = Not at all, `2` = Just a little, `3` = Somewhat, `4` = A lot, `5` = A great deal.  
 
-```{r pre-survey-split, echo=FALSE}
+```{r pre-survey-split, echo=FALSE, cache=TRUE}
 high_rated_qs <- summary(result) %>% 
 	filter(high >=87) %>% 
 	select(Item)
@@ -112,7 +112,7 @@ plot(result_high)
 
 Full question text is in the following talbe:  
 
-```{r high-questions, echo=FALSE, message=FALSE}
+```{r high-questions, echo=FALSE, message=FALSE, cache=TRUE}
 get_questions <- function(rated_qs, result_lev){
 questions <- pre_reeu_lookup %>% 
 	dplyr::select(-question) %>% 
@@ -137,7 +137,7 @@ get_questions(rated_qs = high_rated_qs,
 
 Questions to which most students responded 3 and up on a scale of 1 to 5. `1` = Not at all, `2` = Just a little, `3` = Somewhat, `4` = A lot, `5` = A great deal.
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, cache=TRUE}
 result_med <- pre_reeu_data_num %>% 
 	select(as.character(med_rated_qs)) %>% 
 	likert()
@@ -147,7 +147,7 @@ plot(result_med)
 
 Full question text is in the following talbe: 
 
-```{r, echo=FALSE, message=FALSE}
+```{r, echo=FALSE, message=FALSE, cache=TRUE}
 questions <- pre_reeu_lookup %>% 
 	dplyr::select(-question) %>% 
 	filter(question_number %in% med_rated_qs) %>% 
@@ -167,7 +167,7 @@ kable(questions) %>%
 
 Questions to which most student responded 1 or 2 on a scale of 1 to 5. `1` = Not at all, `2` = Just a little, `3` = Somewhat, `4` = A lot, `5` = A great deal.
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, cache=TRUE}
 result_low <- pre_reeu_data_num %>% 
 	select(as.character(low_rated_qs)) %>% 
 	likert()
@@ -177,7 +177,7 @@ plot(result_low)
 
 Full question text is in the following talbe: 
 
-```{r, echo=FALSE, message=FALSE}
+```{r, echo=FALSE, message=FALSE, cache=TRUE}
 get_questions(rated_qs = low_rated_qs,
 							result_lev = result_low)
 
@@ -187,7 +187,7 @@ get_questions(rated_qs = low_rated_qs,
 
 **Answers to question # 28:** *`r pre_reeu_lookup$question_text[28]`*
 
-```{r wc-q28, echo=FALSE, message=FALSE}
+```{r wc-q28, echo=FALSE, message=FALSE, cache=TRUE}
 
 # text responses
 pre_reeu_data_chr <- pre_reeu_data %>% 
@@ -202,21 +202,21 @@ kable(pre_reeu_data_chr$`28`, col.names = "Student responses")%>%
 
 **Answers to question # 29:** *`r pre_reeu_lookup$question_text[29]`*
 
-```{r wc-q29, echo=FALSE, message=FALSE}
+```{r wc-q29, echo=FALSE, message=FALSE, cache=TRUE}
 knitr::kable(pre_reeu_data_chr$`29`, col.names = "Student responses")%>% 
 	kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 ```
 
 **Answers to question # 30:** *`r pre_reeu_lookup$question_text[30]`*
 
-```{r wc-q30, echo=FALSE, message=FALSE}
+```{r wc-q30, echo=FALSE, message=FALSE, cache=TRUE}
 knitr::kable(pre_reeu_data_chr$`30`, col.names = "Student responses")%>% 
 	kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 ```
 
 ## Post survey
 
-```{r post-survey, results='hide', echo=FALSE, message=FALSE}
+```{r post-survey, results='hide', echo=FALSE, message=FALSE, cache=TRUE}
 # post-survey data
 post_reeu_data <- REEU %>% 
 	gs_read(ws = 2) %>% 
@@ -255,7 +255,7 @@ median_resp_post <- post_reeu_data_num %>%
 
 Scale: `1` = No gain, `2` = A little gain, `3` = Moderate gain, `4` = Good gain, `5` = Great gain
 
-```{r q1-19, echo=FALSE}
+```{r q1-19, echo=FALSE, cache=TRUE}
 post1to19 <- post_reeu_data_num %>% 
 	select(as.character(1:19)) %>% 
 	likert() 
@@ -267,7 +267,7 @@ Full question text of questions 1 through 19 is in the following table:
 
 Question prefix = `r post_reeu_lookup$question_prefix[1]`
 
-```{r q1to19-text, echo=FALSE, message=FALSE}
+```{r q1to19-text, echo=FALSE, message=FALSE, cache=TRUE}
 get_questions <- function(rated_qs, result_lev){
 questions <- post_reeu_lookup %>% 
 	dplyr::select(-question) %>% 
@@ -292,7 +292,7 @@ get_questions(rated_qs = as.character(1:19),
 
 Scale: `1` = None, `2` = A little, `3` = Some, `4` = A fair amount, `5` = A great deal
 
-```{r q20-25, echo=FALSE}
+```{r q20-25, echo=FALSE, cache=TRUE}
 post20to25 <- post_reeu_data_num %>% 
 	select(as.character(20:25)) %>% 
 	likert() 
@@ -304,7 +304,7 @@ Full question text of questions 20 through 25 is in the following table:
 
 Question prefix = `r post_reeu_lookup$question_prefix[20]`
 
-```{r q20to25-text, echo=FALSE, message=FALSE}
+```{r q20to25-text, echo=FALSE, message=FALSE, cache=TRUE}
 get_questions(rated_qs = as.character(20:25),
 							result_lev = post20to25)
 ```
@@ -313,7 +313,7 @@ get_questions(rated_qs = as.character(20:25),
 
 Scale: `1` = Poor, `2` = Fair, `3` = Good, `4` = Excellent
 
-```{r q26-29, echo=FALSE}
+```{r q26-29, echo=FALSE, cache=TRUE}
 post26to29 <- post_reeu_data_num %>% 
 	select(as.character(26:29)) %>% 
 	mutate_all(factor, levels = c("1", "2", "3", "4"), ordered = TRUE) %>% 
@@ -326,7 +326,7 @@ Full question text of questions 26 through 29 is in the following table:
 
 Question prefix = `r post_reeu_lookup$question_prefix[26]`
 
-```{r q26to29-text, echo=FALSE, message=FALSE}
+```{r q26to29-text, echo=FALSE, message=FALSE, cache=TRUE}
 get_questions(rated_qs = as.character(26:29),
 							result_lev = post26to29)
 ```
@@ -335,7 +335,7 @@ get_questions(rated_qs = as.character(26:29),
 
 Scale: `1` = Not more likely, `2` = A little more likely, `3` = Somewhat more likely, `4` = Much more likely, `5` = Extremely more likely
 
-```{r q30-33, echo=FALSE}
+```{r q30-33, echo=FALSE, cache=TRUE}
 post30to33 <- post_reeu_data_num %>% 
 	select(as.character(30:33)) %>% 
 	likert() 
@@ -347,7 +347,7 @@ Full question text of questions 30 through 33 is in the following table:
 
 Question prefix = `r post_reeu_lookup$question_prefix[30]`
 
-```{r q30to33-text, echo=FALSE, message=FALSE}
+```{r q30to33-text, echo=FALSE, message=FALSE, cache=TRUE}
 get_questions(rated_qs = as.character(30:33),
 							result_lev = post30to33)
 ```
@@ -356,7 +356,7 @@ get_questions(rated_qs = as.character(30:33),
 
 Scale: `1` = Very dissatisfied, `2` = Somewhat dissatisfied, `3` = Somewhat satisfied, `4` = Very satisfied
 
-```{r q34-38, echo=FALSE}
+```{r q34-38, echo=FALSE, cache=TRUE}
 post34to38 <- post_reeu_data_num %>% 
 	select(as.character(34:38)) %>% 
 	mutate_all(factor, levels = c("1", "2", "3", "4"), ordered = TRUE) %>% 
@@ -369,7 +369,7 @@ Full question text of questions 34 through 38 is in the following table:
 
 Question prefix = `r post_reeu_lookup$question_prefix[34]`
 
-```{r q34to38-text, echo=FALSE, message=FALSE}
+```{r q34to38-text, echo=FALSE, message=FALSE, cache=TRUE}
 get_questions(rated_qs = as.character(34:38),
 							result_lev = post34to38)
 ```
@@ -378,7 +378,7 @@ get_questions(rated_qs = as.character(34:38),
 
 **Answers to question:** *`r post_reeu_lookup$question_text[39]`*
 
-```{r textq1, echo=FALSE, message=FALSE}
+```{r textq1, echo=FALSE, message=FALSE, cache=TRUE}
 # text responses
 post_reeu_data_chr <- post_reeu_data %>% 
 	dplyr::select(-response_num) %>% 
@@ -392,7 +392,7 @@ kable(post_reeu_data_chr$`39`, col.names = "Student responses")%>%
 
 **Answers to question:** *`r post_reeu_lookup$question_text[40]`*
 
-```{r textq2, echo=FALSE, message=FALSE}
+```{r textq2, echo=FALSE, message=FALSE, cache=TRUE}
 knitr::kable(post_reeu_data_chr$`40`, col.names = "Student responses")%>% 
 	kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"))
 ```
@@ -403,7 +403,7 @@ knitr::kable(post_reeu_data_chr$`40`, col.names = "Student responses")%>%
 
 Scale: `1` = No gain, `2` = A little gain, `3` = Moderate gain, `4` = Good gain, `5` = Great gain
 
-```{r import-data, echo=FALSE, message=FALSE}
+```{r import-data, echo=FALSE, message=FALSE, cache=TRUE}
 mentor <- read_csv("post-REEU-mentor-survey.csv")
 
 mentor_num <- mentor %>% 
@@ -434,7 +434,7 @@ Full question text of above questions in the following table:
 
 Question prefix = How much did your student intern gain in the following areas as a result of their research/extension experience in summer 2019?
 
-```{r mentor-qs, echo=FALSE, message=FALSE}
+```{r mentor-qs, echo=FALSE, message=FALSE, cache=TRUE}
 questions <- mentor %>% 
 	slice(1) %>% 
 	dplyr::select(Q2_1:Q2_16) %>% 
@@ -456,7 +456,7 @@ kable(questions) %>%
 
 ### Text entry style questions
 
-```{r echo=FALSE}
+```{r echo=FALSE, cache=TRUE}
 mentor_chr <- mentor %>% 
 	dplyr::select(Q4:Q7)
 ```
@@ -491,7 +491,7 @@ knitr::kable(mentor_chr$Q7[2:nrow(mentor_chr)], col.names = "Mentor responses")%
 
 ## Student vs. mentor assessment
 
-```{r echo=FALSE, message=FALSE}
+```{r echo=FALSE, message=FALSE, cache=TRUE}
 com_qs_students <- post_reeu_data_num %>% 
 	dplyr::select(-c(`12`, `13`, `14`, `20`:`25`, `27`:`38`)) %>% 
 	gather(key = "question_number", value = "rating") %>% 
@@ -542,7 +542,7 @@ Scale: `1` = No gain, `2` = A little gain, `3` = Moderate gain, `4` = Good gain,
 
 There were 11 questions that were asked in both pre and post surveys. Let's see if there is increase in rating for these questions as a result of the internship.
 
-```{r pre-post, echo=FALSE, message=FALSE}
+```{r pre-post, echo=FALSE, message=FALSE, cache=TRUE}
 com_pre_qs <- c(2:3, 5:11, 13, 15)
 com_post_qs <- c(1, 2, 8, 12:19)
 

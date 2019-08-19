@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 2.4.0">
+  <meta name="generator" content="Hugo 0.57.2" />
+  <meta name="author" content="Lucky Mehra">
+
+  
+  
+  
+  
+    
+  
+  <meta name="description" content="Pre-planting factors have been associated with the late-season severity of Stagonospora nodorum blotch (SNB), caused by the fungal pathogen *Parastagonospora nodorum*, in winter wheat (*Triticum aestivum*). The relative importance of these factors in the risk of SNB has not been determined and this knowledge can facilitate disease management decisions prior to planting of the wheat crop. In this study, we examined the performance of multiple regression (MR) and three machine learning algorithms namely artificial neural networks, categorical and regression trees, and random forests (RF), in predicting the pre-planting risk of SNB in wheat. Pre-planting factors tested as potential predictor variables were cultivar resistance, latitude, longitude, previous crop, seeding rate, seed treatment, tillage type, and wheat residue. Disease severity assessed at the end of the growing season was used as the response variable. The models were developed using 431 disease cases (unique combinations of predictors) collected from 2012 to 2014 and these cases were randomly divided into training, validation, and test datasets. Models were evaluated based on the regression of observed against predicted severity values of SNB, sensitivity-specificity ROC analysis, and the Kappa statistic. A strong relationship was observed between late-season severity of SNB and specific pre-planting factors in which latitude, longitude, wheat residue, and cultivar resistance were the most important predictors. The MR model explained 33% of variability in the data, while machine learning models explained 47 to 79% of the total variability. Similarly, the MR model correctly classified 74% of the disease cases, while machine learning models correctly classified 81 to 83% of these cases. Results show that the RF algorithm, which explained 79% of the variability within the data, was the most accurate in predicting the risk of SNB, with an accuracy rate of 93%. The RF algorithm could allow early assessment of the risk of SNB, facilitating sound disease management decisions prior to planting of wheat.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="../../publication/wheat_nodorum_blotch_preplanting/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#0095eb">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha512-6MXa8B6uaO18Hid6blRMetEIoPqHf7Ux1tnyIQdpt9qI5OACx7C+O3IVTr98vwGnlcg0LOLa02i9Y1HpVhlfiw==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous">
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700%7cRoboto:400,400italic,700%7cRoboto&#43;Mono">
+  
+
+  <link rel="stylesheet" href="../../styles.css">
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-124257084-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="../../index.xml" type="application/rss+xml" title="Lucky Mehra">
+  <link rel="feed" href="../../index.xml" type="application/rss+xml" title="Lucky Mehra">
+  
+
+  <link rel="manifest" href="../../site.webmanifest">
+  <link rel="icon" type="image/png" href="../../img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="../../img/icon-192.png">
+
+  <link rel="canonical" href="../../publication/wheat_nodorum_blotch_preplanting/">
+
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:site" content="@https://twitter.com/lmehra">
+  <meta property="twitter:creator" content="@https://twitter.com/lmehra">
+  
+  <meta property="og:site_name" content="Lucky Mehra">
+  <meta property="og:url" content="/publication/wheat_nodorum_blotch_preplanting/">
+  <meta property="og:title" content="Predicting Pre-planting Risk of Stagonospora nodorum blotch in Winter Wheat Using Machine Learning Models. | Lucky Mehra">
+  <meta property="og:description" content="Pre-planting factors have been associated with the late-season severity of Stagonospora nodorum blotch (SNB), caused by the fungal pathogen *Parastagonospora nodorum*, in winter wheat (*Triticum aestivum*). The relative importance of these factors in the risk of SNB has not been determined and this knowledge can facilitate disease management decisions prior to planting of the wheat crop. In this study, we examined the performance of multiple regression (MR) and three machine learning algorithms namely artificial neural networks, categorical and regression trees, and random forests (RF), in predicting the pre-planting risk of SNB in wheat. Pre-planting factors tested as potential predictor variables were cultivar resistance, latitude, longitude, previous crop, seeding rate, seed treatment, tillage type, and wheat residue. Disease severity assessed at the end of the growing season was used as the response variable. The models were developed using 431 disease cases (unique combinations of predictors) collected from 2012 to 2014 and these cases were randomly divided into training, validation, and test datasets. Models were evaluated based on the regression of observed against predicted severity values of SNB, sensitivity-specificity ROC analysis, and the Kappa statistic. A strong relationship was observed between late-season severity of SNB and specific pre-planting factors in which latitude, longitude, wheat residue, and cultivar resistance were the most important predictors. The MR model explained 33% of variability in the data, while machine learning models explained 47 to 79% of the total variability. Similarly, the MR model correctly classified 74% of the disease cases, while machine learning models correctly classified 81 to 83% of these cases. Results show that the RF algorithm, which explained 79% of the variability within the data, was the most accurate in predicting the risk of SNB, with an accuracy rate of 93%. The RF algorithm could allow early assessment of the risk of SNB, facilitating sound disease management decisions prior to planting of wheat.">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2016-03-30T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2016-03-30T00:00:00&#43;00:00">
+  
+
+  
+
+  
+
+  <title>Predicting Pre-planting Risk of Stagonospora nodorum blotch in Winter Wheat Using Machine Learning Models. | Lucky Mehra</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="navbar-header">
+      
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+              data-target=".navbar-collapse" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <a class="navbar-brand" href="../../">Lucky Mehra</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse">
+
+      
+      
+      <ul class="nav navbar-nav navbar-right">
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
+            
+            <span>Teaching</span>
+            
+            <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="nav-item">
+              <a href="../../#teaching">
+                
+                <span>Current activities</span>
+                
+              </a>
+            </li>
+            
+            <li class="nav-item">
+              <a href="https://mehraksu.github.io/Intro_R_2019_REEU/">
+                
+                <span>Intro to R</span>
+                
+              </a>
+            </li>
+            
+            <li class="nav-item">
+              <a href="https://luckymehra.github.io/epidem-exercises/">
+                
+                <span>Epidemiology in R</span>
+                
+              </a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#posts">
+            
+            <span>Posts</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#resources">
+            
+            <span>Resources</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+        
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a href="../../files/CV.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+      
+
+      
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+  
+
+
+  <div class="article-container">
+    <h1 itemprop="name">Predicting Pre-planting Risk of Stagonospora nodorum blotch in Winter Wheat Using Machine Learning Models.</h1>
+    <span class="pub-authors" itemprop="author">
+      
+      <strong>Mehra, L. K.</strong>, Cowger, C., Gross, K., Ojiambo, P. S.
+      
+    </span>
+    <span class="pull-right">
+      
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    <li>
+      <a class="twitter"
+         href="https://twitter.com/intent/tweet?text=Predicting%20Pre-planting%20Risk%20of%20Stagonospora%20nodorum%20blotch%20in%20Winter%20Wheat%20Using%20Machine%20Learning%20Models.&amp;url=%2fpublication%2fwheat_nodorum_blotch_preplanting%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-twitter"></i>
+      </a>
+    </li>
+    <li>
+      <a class="facebook"
+         href="https://www.facebook.com/sharer.php?u=%2fpublication%2fwheat_nodorum_blotch_preplanting%2f"
+         target="_blank" rel="noopener">
+        <i class="fa fa-facebook"></i>
+      </a>
+    </li>
+    <li>
+      <a class="linkedin"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=%2fpublication%2fwheat_nodorum_blotch_preplanting%2f&amp;title=Predicting%20Pre-planting%20Risk%20of%20Stagonospora%20nodorum%20blotch%20in%20Winter%20Wheat%20Using%20Machine%20Learning%20Models."
+         target="_blank" rel="noopener">
+        <i class="fa fa-linkedin"></i>
+      </a>
+    </li>
+    <li>
+      <a class="weibo"
+         href="http://service.weibo.com/share/share.php?url=%2fpublication%2fwheat_nodorum_blotch_preplanting%2f&amp;title=Predicting%20Pre-planting%20Risk%20of%20Stagonospora%20nodorum%20blotch%20in%20Winter%20Wheat%20Using%20Machine%20Learning%20Models."
+         target="_blank" rel="noopener">
+        <i class="fa fa-weibo"></i>
+      </a>
+    </li>
+    <li>
+      <a class="email"
+         href="mailto:?subject=Predicting%20Pre-planting%20Risk%20of%20Stagonospora%20nodorum%20blotch%20in%20Winter%20Wheat%20Using%20Machine%20Learning%20Models.&amp;body=%2fpublication%2fwheat_nodorum_blotch_preplanting%2f">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+    </span>
+
+    
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract" itemprop="text">Pre-planting factors have been associated with the late-season severity of Stagonospora nodorum blotch (SNB), caused by the fungal pathogen <em>Parastagonospora nodorum</em>, in winter wheat (<em>Triticum aestivum</em>). The relative importance of these factors in the risk of SNB has not been determined and this knowledge can facilitate disease management decisions prior to planting of the wheat crop. In this study, we examined the performance of multiple regression (MR) and three machine learning algorithms namely artificial neural networks, categorical and regression trees, and random forests (RF), in predicting the pre-planting risk of SNB in wheat. Pre-planting factors tested as potential predictor variables were cultivar resistance, latitude, longitude, previous crop, seeding rate, seed treatment, tillage type, and wheat residue. Disease severity assessed at the end of the growing season was used as the response variable. The models were developed using 431 disease cases (unique combinations of predictors) collected from 2012 to 2014 and these cases were randomly divided into training, validation, and test datasets. Models were evaluated based on the regression of observed against predicted severity values of SNB, sensitivity-specificity ROC analysis, and the Kappa statistic. A strong relationship was observed between late-season severity of SNB and specific pre-planting factors in which latitude, longitude, wheat residue, and cultivar resistance were the most important predictors. The MR model explained 33% of variability in the data, while machine learning models explained 47 to 79% of the total variability. Similarly, the MR model correctly classified 74% of the disease cases, while machine learning models correctly classified 81 to 83% of these cases. Results show that the RF algorithm, which explained 79% of the variability within the data, was the most accurate in predicting the risk of SNB, with an accuracy rate of 93%. The RF algorithm could allow early assessment of the risk of SNB, facilitating sound disease management decisions prior to planting of wheat.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Type</div>
+          <div class="col-xs-12 col-sm-9">
+            
+            <a href="../../publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+          <div class="col-xs-12 col-sm-9"><em>Frontiers in Plant Science</em> 7:390</div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+    
+
+    <div class="row">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+          <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+            March, 2016
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="row" style="padding-top: 10px">
+      <div class="col-sm-1"></div>
+      <div class="col-sm-10">
+        <div class="row">
+          <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+          <div class="col-xs-12 col-sm-9">
+
+            
+
+
+
+
+<a class="btn btn-primary btn-outline" href="https://www.frontiersin.org/articles/10.3389/fpls.2016.00390/full" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-1"></div>
+    </div>
+    <div class="visible-xs space-below"></div>
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+  </div>
+</div>
+
+
+
+<footer class="site-footer">
+  <div class="container">
+
+    
+
+    <p class="powered-by">
+
+      &copy; Lucky Mehra 2019 &middot; 
+
+      Powered by the
+      <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+      <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+      <span class="pull-right" aria-hidden="true">
+        <a href="#" id="back_to_top">
+          <span class="button_icon">
+            <i class="fa fa-chevron-up fa-2x"></i>
+          </span>
+        </a>
+      </span>
+
+    </p>
+  </div>
+</footer>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close btn-large" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Cite</h4>
+      </div>
+      <div>
+        <pre><code class="modal-body tex"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-primary btn-outline js-copy-cite" href="#" target="_blank">
+          <i class="fa fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-primary btn-outline js-download-cite" href="#" target="_blank">
+          <i class="fa fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha512-3P8rXCuGJdNZOnUx/03c1jOTnMn3rP63nBip5gOP2qmUh5YAdVAvFZ1E+QLZZbC1rtMrQb+mah3AfYW11RUrWA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.3/imagesloaded.pkgd.min.js" integrity="sha512-umsR78NN0D23AzgoZ11K7raBD+R6hqKojyBZs1w8WvYlsI+QuKRGBx3LFCwhatzBunCjDuJpDHwxD13sLMbpRA==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.min.js" integrity="sha512-VDBOIlDbuC4VWxGJNmuFRQ0Li0SKkDpmGyuhAG5LTDLd/dJ/S0WMVxriR2Y+CyPL5gzjpN4f/6iqWVBJlht0tQ==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    <script src="../../js/hugo-academic.js"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/search.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    <script src="../../js/search.js"></script>
+    
+
+    
+    
+
+  </body>
+</html>
+
