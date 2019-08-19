@@ -16,6 +16,9 @@ header:
   caption: ''
   image: ''
   preview: yes
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 ```{r load-pkgs, echo=FALSE, message=FALSE}

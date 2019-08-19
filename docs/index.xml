@@ -18,6 +18,31 @@
       <description>
 &lt;script src=&#34;./rmarkdown-libs/kePrint/kePrint.js&#34;&gt;&lt;/script&gt;
 
+&lt;div id=&#34;TOC&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#pre-survey&#34;&gt;Pre-survey&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#high-rated-questions&#34;&gt;High rated questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#medium-rated-questions&#34;&gt;Medium rated questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#low-rated-questions&#34;&gt;Low rated questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#text-entry-questions&#34;&gt;Text entry questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#post-survey&#34;&gt;Post survey&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#question-1-through-19&#34;&gt;Question 1 through 19&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#question-20-through-25&#34;&gt;Question 20 through 25&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#question-26-through-29&#34;&gt;Question 26 through 29&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#question-30-through-33&#34;&gt;Question 30 through 33&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#question-34-through-38&#34;&gt;Question 34 through 38&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#text-entry-questions-post-survey&#34;&gt;Text entry questions (Post survey)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#post-survey-mentors&#34;&gt;Post survey (Mentors)&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#rating-style-questions&#34;&gt;Rating style questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#text-entry-style-questions&#34;&gt;Text entry style questions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#student-vs.-mentor-assessment&#34;&gt;Student vs. mentor assessment&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#pre-vs.-post-assessment&#34;&gt;Pre vs. post assessment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 
 &lt;div id=&#34;pre-survey&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Pre-survey&lt;/h2&gt;

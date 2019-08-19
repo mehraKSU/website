@@ -83,6 +83,15 @@ I am a plant disease epidemiologist by training.</description>
     </item>
     
     <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Resources</title>
       <link>/home/resources/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
@@ -96,15 +105,6 @@ I am a plant disease epidemiologist by training.</description>
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Selected Talks</title>
       <link>/home/talks_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
@@ -114,20 +114,20 @@ I am a plant disease epidemiologist by training.</description>
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
