@@ -100,20 +100,6 @@ Scale: `1` = None, `2` = A little, `3` = Some, `4` = A fair amount, `5` = A grea
 
 Majority of students felt like a scientist and were engaged in real-world science research.
 
-3. **`r post_reeu_lookup$question_prefix[30]`**
-
-```{r post-survey-plot-3, echo=FALSE}
-plot3 <- post_reeu_data_num %>% 
-	select(4) %>% 
-	likert() 
-
-plot(plot3)
-```
-
-Scale: `1` = Not more likely, `2` = A little more likely, `3` = Somewhat more likely, `4` = Much more likely, `5` = Extremely more likely
-
-At the end of the REEU, 83% students were `much more` to `extremely` likely to enroll in a graduate program in agricultural and related sciences.
-
 ## Activities
 
 For a timeline of activities that we hosted over the summer, search `#KSUplanthealthREEU` hashtag on [twitter](twitter.com) or just [click here](https://twitter.com/hashtag/KSUplanthealthREEU?src=hashtag_click). Here are our interns celebrating after the successful resereach symposium:
