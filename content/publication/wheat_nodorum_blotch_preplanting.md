@@ -1,6 +1,6 @@
 +++
 
-title = "Predicting Pre-planting Risk of Stagonospora nodorum blotch in Winter Wheat Using Machine Learning Models."
+title = "Predicting Pre-planting Risk of Stagonospora nodorum blotch in Winter Wheat Using Machine Learning Models"
 
 authors = ["**Mehra, L. K.**", "Cowger, C.", "Gross, K.", "Ojiambo, P. S."]
 

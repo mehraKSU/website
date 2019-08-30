@@ -1,6 +1,6 @@
 +++
 
-title = "Focus expansion and stability of the spread parameter estimate of the power law model for dispersal gradients."
+title = "Focus expansion and stability of the spread parameter estimate of the power law model for dispersal gradients"
 
 authors = ["Ojiambo, P. S."," Gent, D. H.", "**Mehra, L. K.**", "Christie, D.", "Magarey, R."]
 

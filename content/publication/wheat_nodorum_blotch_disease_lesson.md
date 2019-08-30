@@ -1,6 +1,6 @@
 +++
 
-title = "Septoria nodorum blotch of wheat."
+title = "Septoria nodorum blotch of wheat"
 
 authors = ["**Mehra, L.**", "Adhikari, U.", "Cowger, C.", "Ojiambo, P. S."]
 

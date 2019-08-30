@@ -1,6 +1,6 @@
 +++
 
-title = "Relating Peanut Rx Risk Factors to Epidemics of Early and Late Leaf Spot of Peanut."
+title = "Relating Peanut Rx Risk Factors to Epidemics of Early and Late Leaf Spot of Peanut"
 
 authors = ["Fulmer, A. M.", "**Mehra, L.**", "Kemerait, R.", "Brenneman, T.", "Culbreath, A.", "Stevenson, K. L.", "Cantonwine, E."]
 

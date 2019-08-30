@@ -1,6 +1,6 @@
 +++
 
-title = "Effect of postharvest biofumigation on fungal decay, sensory quality, and antioxidant levels of blueberry fruit."
+title = "Effect of postharvest biofumigation on fungal decay, sensory quality, and antioxidant levels of blueberry fruit"
 
 authors = ["**Mehra, L. K.**", "MacLean, D. D.", "Shewfelt, R. L.", "Smith, K. C.", "Scherm, H"]
 

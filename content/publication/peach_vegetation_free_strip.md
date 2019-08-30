@@ -1,6 +1,6 @@
 +++
 
-title = "Effects of Vegetation-Free Strip Width and Irrigation on Newly Planted Peach."
+title = "Effects of Vegetation-Free Strip Width and Irrigation on Newly Planted Peach"
 
 authors = ["Bucklew, J. K.", "Mitchem, W. E.", "Monks, D. W.", "Chaudhari, S.", "Jennings, K. M.", "**Mehra, L. K.**"]
 

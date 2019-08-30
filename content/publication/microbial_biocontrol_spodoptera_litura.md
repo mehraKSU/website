@@ -1,6 +1,6 @@
 +++
 
-title = "Lethal and sublethal effects of three microbial biocontrol agents on *Spodoptera litura* and its natural predator *Rhynocoris kumarii*."
+title = "Lethal and sublethal effects of three microbial biocontrol agents on *Spodoptera litura* and its natural predator *Rhynocoris kumarii*"
 
 authors = ["Sahayaraj, K.", "Subash, N.", "Allingham, R. W.", "Kumar, V.", "Avery, P. B.", "**Mehra, L. K.**", "McKenzie, C. L.", "Osborne, L. S."]
 

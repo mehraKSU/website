@@ -1,6 +1,6 @@
 +++
 
-title = "Tolerance of southern highbush and rabbiteye blueberry cultivars to saflufenacil."
+title = "Tolerance of southern highbush and rabbiteye blueberry cultivars to saflufenacil"
 
 authors = ["Aldridge, R.", "Jennings, K.", "Chaudhari, S.", "Monks, D.", "Everman, W.", "**Mehra, L.**"]
 

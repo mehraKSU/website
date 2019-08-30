@@ -1,6 +1,6 @@
 +++
 
-title = "Virulence differences in Blumeria graminis f. sp. tritici from the central and eastern United States."
+title = "Virulence differences in Blumeria graminis f. sp. tritici from the central and eastern United States"
 
 authors = ["Cowger, C.", "**Mehra, L.**", "Arellano, C.", "Meyers, E.", "Murphy, J. P."]
 

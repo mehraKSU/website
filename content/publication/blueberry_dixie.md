@@ -1,6 +1,6 @@
 +++
 
-title = "Observations on fruit rots in a southern highbush harvesting experiment, 2009."
+title = "Observations on fruit rots in a southern highbush harvesting experiment, 2009"
 
 authors = ["Harald Scherm", "**Lucky Mehra**", "Dan MacLean"]
 

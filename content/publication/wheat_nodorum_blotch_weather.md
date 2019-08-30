@@ -1,6 +1,6 @@
 +++
 
-title = "A model for predicting onset of Stagonospora nodorum blotch in winter wheat based on pre-planting and weather factors."
+title = "A model for predicting onset of Stagonospora nodorum blotch in winter wheat based on pre-planting and weather factors"
 
 authors = ["**Mehra, L. K.**", "Cowger, C.", "Ojiambo, P. S."]
 

@@ -1,6 +1,6 @@
 +++
 
-title = "Quantifying the effects of wheat residue on severity of Stagonospora nodorum blotch and yield in winter wheat."
+title = "Quantifying the effects of wheat residue on severity of Stagonospora nodorum blotch and yield in winter wheat"
 
 authors = ["**Mehra, L. K.**", "Cowger, C.", "Weisz, R.", "Ojiambo, P. S."]
 
