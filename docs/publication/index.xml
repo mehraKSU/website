@@ -1,132 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Lucky Mehra</title>
+    <title>Publications | Lucky Mehra</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Lucky Mehra</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Lucky Mehra 2019</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
-    
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Relating Peanut Rx Risk Factors to Epidemics of Early and Late Leaf Spot of Peanut.</title>
-      <link>/publication/peanut_rx_prediction/</link>
-      <pubDate>Sat, 22 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/peanut_rx_prediction/</guid>
-      <description></description>
-    </item>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
-      <title>Tolerance of southern highbush and rabbiteye blueberry cultivars to saflufenacil.</title>
-      <link>/publication/blueberry_tolerance_saflufenacil/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/blueberry_tolerance_saflufenacil/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Septoria nodorum blotch of wheat.</title>
-      <link>/publication/wheat_nodorum_blotch_disease_lesson/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/wheat_nodorum_blotch_disease_lesson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effects of Vegetation-Free Strip Width and Irrigation on Newly Planted Peach.</title>
-      <link>/publication/peach_vegetation_free_strip/</link>
-      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/peach_vegetation_free_strip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lethal and sublethal effects of three microbial biocontrol agents on *Spodoptera litura* and its natural predator *Rhynocoris kumarii*.</title>
-      <link>/publication/microbial_biocontrol_spodoptera_litura/</link>
-      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/microbial_biocontrol_spodoptera_litura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Virulence differences in Blumeria graminis f. sp. tritici from the central and eastern United States.</title>
-      <link>/publication/wheat_powdery_mildew_survey/</link>
-      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/wheat_powdery_mildew_survey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Focus expansion and stability of the spread parameter estimate of the power law model for dispersal gradients.</title>
-      <link>/publication/focus_expansion_cucurbit_downy_mildew/</link>
-      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/focus_expansion_cucurbit_downy_mildew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A model for predicting onset of Stagonospora nodorum blotch in winter wheat based on pre-planting and weather factors.</title>
-      <link>/publication/wheat_nodorum_blotch_weather/</link>
-      <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/wheat_nodorum_blotch_weather/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Pre-planting Risk of Stagonospora nodorum blotch in Winter Wheat Using Machine Learning Models.</title>
-      <link>/publication/wheat_nodorum_blotch_preplanting/</link>
-      <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/wheat_nodorum_blotch_preplanting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantifying the effects of wheat residue on severity of Stagonospora nodorum blotch and yield in winter wheat.</title>
-      <link>/publication/wheat_nodorum_blotch_residue/</link>
-      <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/wheat_nodorum_blotch_residue/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of postharvest biofumigation on fungal decay, sensory quality, and antioxidant levels of blueberry fruit.</title>
-      <link>/publication/blueberry_biofumigation_essential_oils/</link>
-      <pubDate>Sat, 15 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/blueberry_biofumigation_essential_oils/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Postharvest disease development on southern highbush blueberry fruit in relation to berry flesh type and harvest method</title>
-      <link>/publication/blueberry_machine_postharvest_rots/</link>
-      <pubDate>Mon, 07 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/blueberry_machine_postharvest_rots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Observations on fruit rots in a southern highbush harvesting experiment, 2009.</title>
-      <link>/publication/blueberry_dixie/</link>
-      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/blueberry_dixie/</guid>
-      <description></description>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

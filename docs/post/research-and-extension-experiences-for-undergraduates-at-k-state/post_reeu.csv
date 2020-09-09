@@ -1,0 +1,321 @@
+student_num,question_number,question_prefix,question_text,response_num,response_chr
+1,1,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Analyzing data for patterns,5,NA
+1,2,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Figuring out the next step in a research project,4,NA
+1,3,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Formulating a research question that can be answered with data,4,NA
+1,4,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Identifying limitations of research methods and designs,5,NA
+1,5,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding the relevance of research to my coursework,5,NA
+1,6,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Confidence in my ability to contribute to science,5,NA
+1,7,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in discussing scientific concepts with others,4,NA
+1,8,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in working collaboratively with others,4,NA
+1,9,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Ability to work independently,5,NA
+1,10,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Developing patience with slow pace of research,3,NA
+1,11,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding what everyday research work is like,5,NA
+1,12,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Writing scientific reports or papers,2,NA
+1,13,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Making oral presentations,5,NA
+1,14,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Explaining my project to people outside my field,4,NA
+1,15,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Preparing a scientific poster,5,NA
+1,16,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Keeping a detailed lab notebook,5,NA
+1,17,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,"Conducting observations in the lab, greenhouse, or field",4,NA
+1,18,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Using statistics to analyze data,1,NA
+1,19,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding journal articles,4,NA
+1,20,"During your research/extension experience, how much did you?",Engage in real-world science research,5,NA
+1,21,"During your research/extension experience, how much did you?",Feel like a scientist,5,NA
+1,22,"During your research/extension experience, how much did you?",Try out new ideas or procedures on your own,5,NA
+1,23,"During your research/extension experience, how much did you?",Feel responsible for the project,4,NA
+1,24,"During your research/extension experience, how much did you?",Work extra hours because you were excited about the project,5,NA
+1,25,"During your research/extension experience, how much did you?",Feel part of the scientific community,4,NA
+1,26,Please rate the following,My working relationship with my research/extension mentor(s),4,NA
+1,27,Please rate the following,My working relationship with research/extension group members,4,NA
+1,28,Please rate the following,The advice my research/extension mentor provided about career or graduate school,4,NA
+1,29,Please rate the following,The overall research/extension experience,4,NA
+1,30,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a Ph.D. program in agricultural and related sciences,1,NA
+1,31,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a M.S. program in agricultural and related sciences,5,NA
+1,32,"Compared to your intentions before participating in this REEU, how likely are you now to?","Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)",1,NA
+1,33,"Compared to your intentions before participating in this REEU, how likely are you now to?",Work in a science lab,3,NA
+1,34,How satisfied were you with the following aspects of the research program?,"Support and guidance from the REEU program coordinator, Dr. Mehra",4,NA
+1,35,How satisfied were you with the following aspects of the research program?,Support and guidance from your research/extension mentor,4,NA
+1,36,How satisfied were you with the following aspects of the research program?,Support and guidance from other research group members,4,NA
+1,37,How satisfied were you with the following aspects of the research program?,Financial support,4,NA
+1,38,How satisfied were you with the following aspects of the research program?,Group social activities,3,NA
+1,39,NA,What would have made your research experience better?,NA,More social group activities. Otherwise that that I think everything else was phenomenal.
+1,40,NA,"What would improve the REEU, overall?",NA,"Adding more activities. Overall, the program has been a huge help for me in deciding whether or not I liked research and want to pursue grad school. I really enjoyed this opportunity."
+2,1,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Analyzing data for patterns,3,NA
+2,2,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Figuring out the next step in a research project,4,NA
+2,3,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Formulating a research question that can be answered with data,3,NA
+2,4,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Identifying limitations of research methods and designs,3,NA
+2,5,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding the relevance of research to my coursework,4,NA
+2,6,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Confidence in my ability to contribute to science,4,NA
+2,7,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in discussing scientific concepts with others,3,NA
+2,8,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in working collaboratively with others,3,NA
+2,9,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Ability to work independently,3,NA
+2,10,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Developing patience with slow pace of research,3,NA
+2,11,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding what everyday research work is like,5,NA
+2,12,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Writing scientific reports or papers,3,NA
+2,13,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Making oral presentations,3,NA
+2,14,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Explaining my project to people outside my field,3,NA
+2,15,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Preparing a scientific poster,3,NA
+2,16,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Keeping a detailed lab notebook,3,NA
+2,17,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,"Conducting observations in the lab, greenhouse, or field",3,NA
+2,18,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Using statistics to analyze data,4,NA
+2,19,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding journal articles,2,NA
+2,20,"During your research/extension experience, how much did you?",Engage in real-world science research,5,NA
+2,21,"During your research/extension experience, how much did you?",Feel like a scientist,4,NA
+2,22,"During your research/extension experience, how much did you?",Try out new ideas or procedures on your own,2,NA
+2,23,"During your research/extension experience, how much did you?",Feel responsible for the project,3,NA
+2,24,"During your research/extension experience, how much did you?",Work extra hours because you were excited about the project,4,NA
+2,25,"During your research/extension experience, how much did you?",Feel part of the scientific community,3,NA
+2,26,Please rate the following,My working relationship with my research/extension mentor(s),4,NA
+2,27,Please rate the following,My working relationship with research/extension group members,4,NA
+2,28,Please rate the following,The advice my research/extension mentor provided about career or graduate school,4,NA
+2,29,Please rate the following,The overall research/extension experience,4,NA
+2,30,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a Ph.D. program in agricultural and related sciences,2,NA
+2,31,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a M.S. program in agricultural and related sciences,0,NA
+2,32,"Compared to your intentions before participating in this REEU, how likely are you now to?","Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)",1,NA
+2,33,"Compared to your intentions before participating in this REEU, how likely are you now to?",Work in a science lab,3,NA
+2,34,How satisfied were you with the following aspects of the research program?,"Support and guidance from the REEU program coordinator, Dr. Mehra",4,NA
+2,35,How satisfied were you with the following aspects of the research program?,Support and guidance from your research/extension mentor,4,NA
+2,36,How satisfied were you with the following aspects of the research program?,Support and guidance from other research group members,4,NA
+2,37,How satisfied were you with the following aspects of the research program?,Financial support,4,NA
+2,38,How satisfied were you with the following aspects of the research program?,Group social activities,3,NA
+2,39,NA,What would have made your research experience better?,NA,There is nothing I can think of at this time.
+2,40,NA,"What would improve the REEU, overall?",NA,There isn't much that hasn't already been discussed in the oral session.
+3,1,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Analyzing data for patterns,4,NA
+3,2,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Figuring out the next step in a research project,5,NA
+3,3,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Formulating a research question that can be answered with data,5,NA
+3,4,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Identifying limitations of research methods and designs,4,NA
+3,5,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding the relevance of research to my coursework,5,NA
+3,6,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Confidence in my ability to contribute to science,5,NA
+3,7,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in discussing scientific concepts with others,5,NA
+3,8,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in working collaboratively with others,5,NA
+3,9,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Ability to work independently,5,NA
+3,10,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Developing patience with slow pace of research,5,NA
+3,11,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding what everyday research work is like,5,NA
+3,12,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Writing scientific reports or papers,4,NA
+3,13,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Making oral presentations,5,NA
+3,14,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Explaining my project to people outside my field,5,NA
+3,15,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Preparing a scientific poster,5,NA
+3,16,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Keeping a detailed lab notebook,4,NA
+3,17,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,"Conducting observations in the lab, greenhouse, or field",5,NA
+3,18,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Using statistics to analyze data,5,NA
+3,19,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding journal articles,5,NA
+3,20,"During your research/extension experience, how much did you?",Engage in real-world science research,5,NA
+3,21,"During your research/extension experience, how much did you?",Feel like a scientist,4,NA
+3,22,"During your research/extension experience, how much did you?",Try out new ideas or procedures on your own,4,NA
+3,23,"During your research/extension experience, how much did you?",Feel responsible for the project,5,NA
+3,24,"During your research/extension experience, how much did you?",Work extra hours because you were excited about the project,5,NA
+3,25,"During your research/extension experience, how much did you?",Feel part of the scientific community,5,NA
+3,26,Please rate the following,My working relationship with my research/extension mentor(s),4,NA
+3,27,Please rate the following,My working relationship with research/extension group members,4,NA
+3,28,Please rate the following,The advice my research/extension mentor provided about career or graduate school,4,NA
+3,29,Please rate the following,The overall research/extension experience,4,NA
+3,30,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a Ph.D. program in agricultural and related sciences,3,NA
+3,31,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a M.S. program in agricultural and related sciences,4,NA
+3,32,"Compared to your intentions before participating in this REEU, how likely are you now to?","Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)",0,NA
+3,33,"Compared to your intentions before participating in this REEU, how likely are you now to?",Work in a science lab,4,NA
+3,34,How satisfied were you with the following aspects of the research program?,"Support and guidance from the REEU program coordinator, Dr. Mehra",4,NA
+3,35,How satisfied were you with the following aspects of the research program?,Support and guidance from your research/extension mentor,4,NA
+3,36,How satisfied were you with the following aspects of the research program?,Support and guidance from other research group members,4,NA
+3,37,How satisfied were you with the following aspects of the research program?,Financial support,4,NA
+3,38,How satisfied were you with the following aspects of the research program?,Group social activities,4,NA
+3,39,NA,What would have made your research experience better?,NA,NA
+3,40,NA,"What would improve the REEU, overall?",NA,This program was great! Honestly I don't have anything that I really just did not like. It was a fantastic experience! Thank you!!!
+4,1,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Analyzing data for patterns,2,NA
+4,2,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Figuring out the next step in a research project,4,NA
+4,3,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Formulating a research question that can be answered with data,4,NA
+4,4,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Identifying limitations of research methods and designs,5,NA
+4,5,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding the relevance of research to my coursework,5,NA
+4,6,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Confidence in my ability to contribute to science,5,NA
+4,7,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in discussing scientific concepts with others,5,NA
+4,8,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in working collaboratively with others,5,NA
+4,9,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Ability to work independently,5,NA
+4,10,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Developing patience with slow pace of research,1,NA
+4,11,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding what everyday research work is like,5,NA
+4,12,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Writing scientific reports or papers,2,NA
+4,13,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Making oral presentations,4,NA
+4,14,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Explaining my project to people outside my field,2,NA
+4,15,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Preparing a scientific poster,5,NA
+4,16,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Keeping a detailed lab notebook,5,NA
+4,17,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,"Conducting observations in the lab, greenhouse, or field",5,NA
+4,18,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Using statistics to analyze data,3,NA
+4,19,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding journal articles,2,NA
+4,20,"During your research/extension experience, how much did you?",Engage in real-world science research,5,NA
+4,21,"During your research/extension experience, how much did you?",Feel like a scientist,5,NA
+4,22,"During your research/extension experience, how much did you?",Try out new ideas or procedures on your own,3,NA
+4,23,"During your research/extension experience, how much did you?",Feel responsible for the project,5,NA
+4,24,"During your research/extension experience, how much did you?",Work extra hours because you were excited about the project,5,NA
+4,25,"During your research/extension experience, how much did you?",Feel part of the scientific community,5,NA
+4,26,Please rate the following,My working relationship with my research/extension mentor(s),4,NA
+4,27,Please rate the following,My working relationship with research/extension group members,4,NA
+4,28,Please rate the following,The advice my research/extension mentor provided about career or graduate school,4,NA
+4,29,Please rate the following,The overall research/extension experience,4,NA
+4,30,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a Ph.D. program in agricultural and related sciences,5,NA
+4,31,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a M.S. program in agricultural and related sciences,5,NA
+4,32,"Compared to your intentions before participating in this REEU, how likely are you now to?","Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)",1,NA
+4,33,"Compared to your intentions before participating in this REEU, how likely are you now to?",Work in a science lab,5,NA
+4,34,How satisfied were you with the following aspects of the research program?,"Support and guidance from the REEU program coordinator, Dr. Mehra",4,NA
+4,35,How satisfied were you with the following aspects of the research program?,Support and guidance from your research/extension mentor,4,NA
+4,36,How satisfied were you with the following aspects of the research program?,Support and guidance from other research group members,4,NA
+4,37,How satisfied were you with the following aspects of the research program?,Financial support,4,NA
+4,38,How satisfied were you with the following aspects of the research program?,Group social activities,3.5,NA
+4,39,NA,What would have made your research experience better?,NA,"Nothing! Anything I wanted to do, I did and was guided on. Very fun and rewarding!"
+4,40,NA,"What would improve the REEU, overall?",NA,"More interaction with other programs, I think that's honestly it. This program was excellent, and I cannot stress that enough!"
+5,1,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Analyzing data for patterns,4,NA
+5,2,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Figuring out the next step in a research project,4,NA
+5,3,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Formulating a research question that can be answered with data,4,NA
+5,4,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Identifying limitations of research methods and designs,4,NA
+5,5,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding the relevance of research to my coursework,4,NA
+5,6,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Confidence in my ability to contribute to science,5,NA
+5,7,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in discussing scientific concepts with others,5,NA
+5,8,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in working collaboratively with others,4,NA
+5,9,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Ability to work independently,4,NA
+5,10,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Developing patience with slow pace of research,4,NA
+5,11,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding what everyday research work is like,5,NA
+5,12,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Writing scientific reports or papers,4,NA
+5,13,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Making oral presentations,4,NA
+5,14,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Explaining my project to people outside my field,4,NA
+5,15,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Preparing a scientific poster,5,NA
+5,16,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Keeping a detailed lab notebook,3,NA
+5,17,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,"Conducting observations in the lab, greenhouse, or field",5,NA
+5,18,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Using statistics to analyze data,4,NA
+5,19,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding journal articles,3,NA
+5,20,"During your research/extension experience, how much did you?",Engage in real-world science research,4,NA
+5,21,"During your research/extension experience, how much did you?",Feel like a scientist,4,NA
+5,22,"During your research/extension experience, how much did you?",Try out new ideas or procedures on your own,3,NA
+5,23,"During your research/extension experience, how much did you?",Feel responsible for the project,2,NA
+5,24,"During your research/extension experience, how much did you?",Work extra hours because you were excited about the project,1,NA
+5,25,"During your research/extension experience, how much did you?",Feel part of the scientific community,4,NA
+5,26,Please rate the following,My working relationship with my research/extension mentor(s),1,NA
+5,27,Please rate the following,My working relationship with research/extension group members,2,NA
+5,28,Please rate the following,The advice my research/extension mentor provided about career or graduate school,1,NA
+5,29,Please rate the following,The overall research/extension experience,3,NA
+5,30,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a Ph.D. program in agricultural and related sciences,3,NA
+5,31,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a M.S. program in agricultural and related sciences,4,NA
+5,32,"Compared to your intentions before participating in this REEU, how likely are you now to?","Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)",1,NA
+5,33,"Compared to your intentions before participating in this REEU, how likely are you now to?",Work in a science lab,4,NA
+5,34,How satisfied were you with the following aspects of the research program?,"Support and guidance from the REEU program coordinator, Dr. Mehra",4,NA
+5,35,How satisfied were you with the following aspects of the research program?,Support and guidance from your research/extension mentor,1,NA
+5,36,How satisfied were you with the following aspects of the research program?,Support and guidance from other research group members,3,NA
+5,37,How satisfied were you with the following aspects of the research program?,Financial support,4,NA
+5,38,How satisfied were you with the following aspects of the research program?,Group social activities,4,NA
+5,39,NA,What would have made your research experience better?,NA,I wish my mentor would have been more involved and that I could have conducted original research or formulate my own research question. Being included in lab activities outside of my project would help keep me busy.
+5,40,NA,"What would improve the REEU, overall?",NA,I think more activities with other programs would be nice.
+6,1,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Analyzing data for patterns,4,NA
+6,2,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Figuring out the next step in a research project,4,NA
+6,3,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Formulating a research question that can be answered with data,2,NA
+6,4,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Identifying limitations of research methods and designs,3,NA
+6,5,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding the relevance of research to my coursework,4,NA
+6,6,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Confidence in my ability to contribute to science,5,NA
+6,7,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in discussing scientific concepts with others,4,NA
+6,8,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in working collaboratively with others,4,NA
+6,9,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Ability to work independently,5,NA
+6,10,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Developing patience with slow pace of research,5,NA
+6,11,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding what everyday research work is like,5,NA
+6,12,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Writing scientific reports or papers,4,NA
+6,13,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Making oral presentations,5,NA
+6,14,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Explaining my project to people outside my field,4,NA
+6,15,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Preparing a scientific poster,2,NA
+6,16,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Keeping a detailed lab notebook,3,NA
+6,17,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,"Conducting observations in the lab, greenhouse, or field",5,NA
+6,18,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Using statistics to analyze data,4,NA
+6,19,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding journal articles,4,NA
+6,20,"During your research/extension experience, how much did you?",Engage in real-world science research,3,NA
+6,21,"During your research/extension experience, how much did you?",Feel like a scientist,5,NA
+6,22,"During your research/extension experience, how much did you?",Try out new ideas or procedures on your own,4,NA
+6,23,"During your research/extension experience, how much did you?",Feel responsible for the project,2,NA
+6,24,"During your research/extension experience, how much did you?",Work extra hours because you were excited about the project,3,NA
+6,25,"During your research/extension experience, how much did you?",Feel part of the scientific community,4,NA
+6,26,Please rate the following,My working relationship with my research/extension mentor(s),3,NA
+6,27,Please rate the following,My working relationship with research/extension group members,4,NA
+6,28,Please rate the following,The advice my research/extension mentor provided about career or graduate school,3,NA
+6,29,Please rate the following,The overall research/extension experience,4,NA
+6,30,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a Ph.D. program in agricultural and related sciences,3,NA
+6,31,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a M.S. program in agricultural and related sciences,5,NA
+6,32,"Compared to your intentions before participating in this REEU, how likely are you now to?","Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)",2,NA
+6,33,"Compared to your intentions before participating in this REEU, how likely are you now to?",Work in a science lab,5,NA
+6,34,How satisfied were you with the following aspects of the research program?,"Support and guidance from the REEU program coordinator, Dr. Mehra",4,NA
+6,35,How satisfied were you with the following aspects of the research program?,Support and guidance from your research/extension mentor,3,NA
+6,36,How satisfied were you with the following aspects of the research program?,Support and guidance from other research group members,3,NA
+6,37,How satisfied were you with the following aspects of the research program?,Financial support,4,NA
+6,38,How satisfied were you with the following aspects of the research program?,Group social activities,3,NA
+6,39,NA,What would have made your research experience better?,NA,"I wish I had more time!! I wanted to learn more about research poster ""creating"" and writing research articles."
+6,40,NA,"What would improve the REEU, overall?",NA,"More diversity (from different universities, 1890, 1862, .....); Help with time management."
+7,1,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Analyzing data for patterns,4,NA
+7,2,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Figuring out the next step in a research project,4,NA
+7,3,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Formulating a research question that can be answered with data,4,NA
+7,4,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Identifying limitations of research methods and designs,4,NA
+7,5,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding the relevance of research to my coursework,4,NA
+7,6,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Confidence in my ability to contribute to science,3,NA
+7,7,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in discussing scientific concepts with others,4,NA
+7,8,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in working collaboratively with others,4,NA
+7,9,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Ability to work independently,4,NA
+7,10,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Developing patience with slow pace of research,3,NA
+7,11,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding what everyday research work is like,4,NA
+7,12,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Writing scientific reports or papers,3,NA
+7,13,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Making oral presentations,3,NA
+7,14,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Explaining my project to people outside my field,4,NA
+7,15,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Preparing a scientific poster,4,NA
+7,16,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Keeping a detailed lab notebook,3,NA
+7,17,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,"Conducting observations in the lab, greenhouse, or field",5,NA
+7,18,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Using statistics to analyze data,3,NA
+7,19,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding journal articles,4,NA
+7,20,"During your research/extension experience, how much did you?",Engage in real-world science research,5,NA
+7,21,"During your research/extension experience, how much did you?",Feel like a scientist,4,NA
+7,22,"During your research/extension experience, how much did you?",Try out new ideas or procedures on your own,4,NA
+7,23,"During your research/extension experience, how much did you?",Feel responsible for the project,5,NA
+7,24,"During your research/extension experience, how much did you?",Work extra hours because you were excited about the project,4,NA
+7,25,"During your research/extension experience, how much did you?",Feel part of the scientific community,3,NA
+7,26,Please rate the following,My working relationship with my research/extension mentor(s),4,NA
+7,27,Please rate the following,My working relationship with research/extension group members,4,NA
+7,28,Please rate the following,The advice my research/extension mentor provided about career or graduate school,3,NA
+7,29,Please rate the following,The overall research/extension experience,3,NA
+7,30,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a Ph.D. program in agricultural and related sciences,1,NA
+7,31,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a M.S. program in agricultural and related sciences,3,NA
+7,32,"Compared to your intentions before participating in this REEU, how likely are you now to?","Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)",1,NA
+7,33,"Compared to your intentions before participating in this REEU, how likely are you now to?",Work in a science lab,3,NA
+7,34,How satisfied were you with the following aspects of the research program?,"Support and guidance from the REEU program coordinator, Dr. Mehra",4,NA
+7,35,How satisfied were you with the following aspects of the research program?,Support and guidance from your research/extension mentor,4,NA
+7,36,How satisfied were you with the following aspects of the research program?,Support and guidance from other research group members,4,NA
+7,37,How satisfied were you with the following aspects of the research program?,Financial support,4,NA
+7,38,How satisfied were you with the following aspects of the research program?,Group social activities,4,NA
+7,39,NA,What would have made your research experience better?,NA,"Having a more ""defined"" area of research to come up with a project from. At the start of the program, there was a broad spectrum to choose from and kind of gave my research a late/slow start."
+7,40,NA,"What would improve the REEU, overall?",NA,"I don't know, it was great"
+8,1,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Analyzing data for patterns,5,NA
+8,2,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Figuring out the next step in a research project,4,NA
+8,3,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Formulating a research question that can be answered with data,5,NA
+8,4,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Identifying limitations of research methods and designs,5,NA
+8,5,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding the relevance of research to my coursework,5,NA
+8,6,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Confidence in my ability to contribute to science,5,NA
+8,7,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in discussing scientific concepts with others,5,NA
+8,8,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Comfort in working collaboratively with others,5,NA
+8,9,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Ability to work independently,5,NA
+8,10,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Developing patience with slow pace of research,4,NA
+8,11,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding what everyday research work is like,5,NA
+8,12,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Writing scientific reports or papers,5,NA
+8,13,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Making oral presentations,5,NA
+8,14,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Explaining my project to people outside my field,5,NA
+8,15,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Preparing a scientific poster,5,NA
+8,16,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Keeping a detailed lab notebook,5,NA
+8,17,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,"Conducting observations in the lab, greenhouse, or field",5,NA
+8,18,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Using statistics to analyze data,5,NA
+8,19,How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?,Understanding journal articles,4,NA
+8,20,"During your research/extension experience, how much did you?",Engage in real-world science research,5,NA
+8,21,"During your research/extension experience, how much did you?",Feel like a scientist,5,NA
+8,22,"During your research/extension experience, how much did you?",Try out new ideas or procedures on your own,4,NA
+8,23,"During your research/extension experience, how much did you?",Feel responsible for the project,5,NA
+8,24,"During your research/extension experience, how much did you?",Work extra hours because you were excited about the project,4,NA
+8,25,"During your research/extension experience, how much did you?",Feel part of the scientific community,5,NA
+8,26,Please rate the following,My working relationship with my research/extension mentor(s),4,NA
+8,27,Please rate the following,My working relationship with research/extension group members,4,NA
+8,28,Please rate the following,The advice my research/extension mentor provided about career or graduate school,4,NA
+8,29,Please rate the following,The overall research/extension experience,4,NA
+8,30,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a Ph.D. program in agricultural and related sciences,0,NA
+8,31,"Compared to your intentions before participating in this REEU, how likely are you now to?",Enroll in a M.S. program in agricultural and related sciences,0,NA
+8,32,"Compared to your intentions before participating in this REEU, how likely are you now to?","Enroll in a program to earn a different professional degree (i.e. law, veterinary medicine etc.)",0,NA
+8,33,"Compared to your intentions before participating in this REEU, how likely are you now to?",Work in a science lab,3,NA
+8,34,How satisfied were you with the following aspects of the research program?,"Support and guidance from the REEU program coordinator, Dr. Mehra",4,NA
+8,35,How satisfied were you with the following aspects of the research program?,Support and guidance from your research/extension mentor,4,NA
+8,36,How satisfied were you with the following aspects of the research program?,Support and guidance from other research group members,4,NA
+8,37,How satisfied were you with the following aspects of the research program?,Financial support,4,NA
+8,38,How satisfied were you with the following aspects of the research program?,Group social activities,3,NA
+8,39,NA,What would have made your research experience better?,NA,grad seminars to be optional
+8,40,NA,"What would improve the REEU, overall?",NA,more regular schedule to plan things in advance more easily
