@@ -1,25 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>undergradute on Lucky Mehra</title>
-    <link>/tags/undergradute/</link>
-    <description>Recent content in undergradute on Lucky Mehra</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; Lucky Mehra 2019</copyright>
-    <lastBuildDate>Fri, 16 Aug 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/undergradute/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Analysis of REEU surveys</title>
-      <link>/post/analysis-of-reeu-surveys/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/analysis-of-reeu-surveys/</guid>
-      <description>Pre-surveyHigh rated questionsMedium rated questionsLow rated questionsText entry questionsPost surveyQuestion 1 through 19Question 20 through 25Question 26 through 29Question 30 through 33Question 34 through 38Text entry questions (Post survey)Post survey (Mentors)Rating style questionsText entry style questionsStudent vs. mentor assessmentPre vs. post assessmentPre-surveyHigh rated questionsQuestions that were rated 4 and higher by students on a scale of 1 to 5.</description>
-    </item>
-    
-  </channel>
-</rss>

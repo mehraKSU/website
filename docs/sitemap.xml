@@ -18,12 +18,187 @@
   </url>
   
   <url>
-    <loc>/tag/extension/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/b-whitefly/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/biological-control/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/cindy-l-mckenzie/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2020-functional-response/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/ipm/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lance-s-osborne/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lucky-mehra/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/predatory-beetle/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/q-whitefly/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vivek-kumar/</loc>
+    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/abraham-m.-fulmer/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/albert-k.-culbreath/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cercospora-arachidicola/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cercosporidium-personatum/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/disease-management/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/disease-warning-systems/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/early-leaf-spot/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/emily-g.-cantonwine/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/epidemiology/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/field-crops/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fungi/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/groundnut/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/katherine-l.-stevenson/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/late-leaf-spot/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nothopassalora-personata/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/oilseeds-and-legumes/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/passalora-arachidicola/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/peanut-rx/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-peanut-rx/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/timothy-b.-brenneman/</loc>
+    <lastmod>2019-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/extension/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,11 +223,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/teaching/</loc>
     <lastmod>2019-08-30T00:00:00+00:00</lastmod>
   </url>
@@ -68,6 +238,256 @@
   </url>
   
   <url>
+    <loc>/author/david-w-monks/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/glufosinate/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/glyphosate/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/hexazinone/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/highbush-blueberry/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/injury/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/katherine-m-jennings/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/leaf-abscission/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/rabbiteye-blueberry/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reddening-foliage/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ryan-b-aldridge/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/saflufenacil/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/small-fruit/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sushila-chaudhari/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-southern-higbush-saflufenacil/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/vaccinium-ashei/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/vaccinium-corymbosum-l/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/wesley-j-everman/</loc>
+    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/competition/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-vegetation-free-peach/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/floor-management/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fruit-tree/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/juliana-k-buckelew/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/katie-m-jennings/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/orchard/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/wayne-e-mitchem/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/weed-control/</loc>
+    <lastmod>2019-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c.-cowger/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/glume-blotch/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/leptosphaeria-nodorum/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p.-s.-ojiambo/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/parastagonospora-nodorum/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/phaeosphaeria-nodorum/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/septoria-nodorum/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2019-snb-disease-lesson/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/stagonospora-nodorum/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/stagonospora-nodorum-blotch/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/u.-adhikari/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wheat-foliar-disease/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/entomopathogens/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/field-crop-pest/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/integrated-pest-management/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kitherian-sahayaraj/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2018-biocontrol-spodoptera/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/metarizhium-anisopliae/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/natarajan-subash/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/nucleopolyhedrovirus/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pasco-b-avery/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pseudomonas-fluorescens/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-w-allingham/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -78,47 +498,296 @@
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/author/christina-cowger/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/author/consuelo-arellano/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/author/emily-meyers/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/gene-frequency/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-paul-murphy/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/lucky-mehra/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/tag/powdery-mildew/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/tag/survey/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/2018-powdery-mildew/</loc>
+    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>/tag/cucurbit-downy-mildew/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-christie/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-h-gent/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-stability-spread-parameter/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/peter-s-ojiambo/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/power-law-model/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/roger-magarey/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/spread-parameter/</loc>
+    <lastmod>2017-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2017-snb-weather-model/</loc>
+    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c-cowger/</loc>
+    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/logistic-regression/</loc>
+    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ps-ojiambo/</loc>
+    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/septoria/</loc>
+    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/weather-model/</loc>
+    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wheat/</loc>
+    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kevin-gross/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-learning/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/multiple-regression/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/neural-networks/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/pre-planting-risk/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2016-pre-plant-risk-machine-learning/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/random-forests/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/septoria-nodorum-blotch/</loc>
+    <lastmod>2016-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2015-wheat-residue/</loc>
+    <lastmod>2015-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r-weisz/</loc>
+    <lastmod>2015-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wheat-residue/</loc>
+    <lastmod>2015-11-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/alternaria-alternata/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/biofumigation/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/blueberry/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/botrytis-cinerea/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/colletotrichum-acutatum/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dd-maclean/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-blueberry-biofumigation/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/essential-oil/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/h-scherm/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kc-smith/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lk-mehra/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rl-shewfelt/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/vaccinium-virgatum/</loc>
+    <lastmod>2013-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/alternaria/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/at-savelle/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/botrytis/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/colletotrichum/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/crisp-textured-blueberry/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/machine-harvest/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-blueberry-machine-harvest/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/postharvest-rot/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/southern-highbush-blueberry/</loc>
+    <lastmod>2013-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/robert-c.-kemerait-jr./</loc>
   </url>
   
 </urlset>

@@ -5,7 +5,7 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,23 +13,107 @@
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Functional response and prey stage preference of *Delphastus catalinae* and *D. pallidus* (Coleoptera: Coccinellidae) on *Bemisia tabaci* (Hemiptera: Aleyrodidae)</title>
+      <link>/publication/2020-functional-response/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-functional-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relating Peanut Rx Risk Factors to Epidemics of Early and Late Leaf Spot of Peanut</title>
+      <link>/publication/2019-peanut-rx/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-peanut-rx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tolerance of southern highbush and rabbiteye blueberry cultivars to saflufenacil</title>
+      <link>/publication/2019-southern-higbush-saflufenacil/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-southern-higbush-saflufenacil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of vegetation-free strip width and irrigation on newly planted peach</title>
+      <link>/publication/2019-vegetation-free-peach/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-vegetation-free-peach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Septoria nodorum blotch of wheat</title>
+      <link>/publication/2019-snb-disease-lesson/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-snb-disease-lesson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lethal and sublethal effects of three microbial biocontrol agents on *Spodoptera litura* and its natural predator *Rhynocoris kumarii*</title>
+      <link>/publication/2018-biocontrol-spodoptera/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-biocontrol-spodoptera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virulence Differences in *Blumeria graminis* f. sp. *tritici* from the Central and Eastern United States</title>
+      <link>/publication/2018-powdery-mildew/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-powdery-mildew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focus expansion and stability of the spread parameter estimate of the power law model for dispersal gradients</title>
+      <link>/publication/2017-stability-spread-parameter/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-stability-spread-parameter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model for predicting onset of Stagonospora nodorum blotch in winter wheat based on preplanting and weather factors</title>
+      <link>/publication/2017-snb-weather-model/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-snb-weather-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting pre-planting risk of Stagonospora nodorum blotch in winter wheat using machine learning models</title>
+      <link>/publication/2016-pre-plant-risk-machine-learning/</link>
+      <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-pre-plant-risk-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the effects of wheat residue on severity of Stagonospora nodorum blotch and yield in winter wheat</title>
+      <link>/publication/2015-wheat-residue/</link>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-wheat-residue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of postharvest biofumigation on fungal decay, sensory quality, and antioxidant levels of blueberry fruit</title>
+      <link>/publication/2013-blueberry-biofumigation/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-blueberry-biofumigation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Postharvest disease development on southern highbush blueberry fruit in relation to berry flesh type and harvest method</title>
+      <link>/publication/2013-blueberry-machine-harvest/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-blueberry-machine-harvest/</guid>
+      <description></description>
     </item>
     
   </channel>
