@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>extension | Lucky Mehra</title>
-    <link>/tag/extension/</link>
-      <atom:link href="/tag/extension/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://luckymehra.com/tag/extension/</link>
+      <atom:link href="https://luckymehra.com/tag/extension/index.xml" rel="self" type="application/rss+xml" />
     <description>extension</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://luckymehra.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>extension</title>
-      <link>/tag/extension/</link>
+      <link>https://luckymehra.com/tag/extension/</link>
     </image>
     
     <item>
       <title>Research and Extension Experiences for Undergraduates at K-State</title>
-      <link>/post/research-and-extension-experiences-for-undergraduates-at-k-state/</link>
+      <link>https://luckymehra.com/post/research-and-extension-experiences-for-undergraduates-at-k-state/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/post/research-and-extension-experiences-for-undergraduates-at-k-state/</guid>
+      <guid>https://luckymehra.com/post/research-and-extension-experiences-for-undergraduates-at-k-state/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -37,13 +37,13 @@
 &lt;ol style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;How much did you gain in the following areas as a result of your research/extension experience in past nine weeks?&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;/post/reeu-2019/index_files/figure-html/post-survey-plot-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://luckymehra.com/post/reeu-2019/index_files/figure-html/post-survey-plot-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Scale: &lt;code&gt;1&lt;/code&gt; = No gain, &lt;code&gt;2&lt;/code&gt; = A little gain, &lt;code&gt;3&lt;/code&gt; = Moderate gain, &lt;code&gt;4&lt;/code&gt; = Good gain, &lt;code&gt;5&lt;/code&gt; = Great gain&lt;/p&gt;
 &lt;p&gt;All students had a &lt;code&gt;moderate&lt;/code&gt; to &lt;code&gt;great&lt;/code&gt; gain in understanding of everyday researh work, confidence to contribute to science, and conducting scientific observations.&lt;/p&gt;
 &lt;ol start=&#34;2&#34; style=&#34;list-style-type: decimal&#34;&gt;
 &lt;li&gt;&lt;strong&gt;During your research/extension experience, how much did you?&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;/post/reeu-2019/index_files/figure-html/post-survey-plot-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://luckymehra.com/post/reeu-2019/index_files/figure-html/post-survey-plot-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Scale: &lt;code&gt;1&lt;/code&gt; = None, &lt;code&gt;2&lt;/code&gt; = A little, &lt;code&gt;3&lt;/code&gt; = Some, &lt;code&gt;4&lt;/code&gt; = A fair amount, &lt;code&gt;5&lt;/code&gt; = A great deal&lt;/p&gt;
 &lt;p&gt;Majority of students felt like a scientist and were engaged in real-world science research.&lt;/p&gt;
 &lt;/div&gt;

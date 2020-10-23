@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>random forests | Lucky Mehra</title>
-    <link>/tag/random-forests/</link>
-      <atom:link href="/tag/random-forests/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://luckymehra.com/tag/random-forests/</link>
+      <atom:link href="https://luckymehra.com/tag/random-forests/index.xml" rel="self" type="application/rss+xml" />
     <description>random forests</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 30 Mar 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://luckymehra.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>random forests</title>
-      <link>/tag/random-forests/</link>
+      <link>https://luckymehra.com/tag/random-forests/</link>
     </image>
     
     <item>
       <title>Predicting pre-planting risk of Stagonospora nodorum blotch in winter wheat using machine learning models</title>
-      <link>/publication/2016-pre-plant-risk-machine-learning/</link>
+      <link>https://luckymehra.com/publication/2016-pre-plant-risk-machine-learning/</link>
       <pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-pre-plant-risk-machine-learning/</guid>
+      <guid>https://luckymehra.com/publication/2016-pre-plant-risk-machine-learning/</guid>
       <description></description>
     </item>
     

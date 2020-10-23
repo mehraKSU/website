@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David H Gent | Lucky Mehra</title>
-    <link>/author/david-h-gent/</link>
-      <atom:link href="/author/david-h-gent/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://luckymehra.com/author/david-h-gent/</link>
+      <atom:link href="https://luckymehra.com/author/david-h-gent/index.xml" rel="self" type="application/rss+xml" />
     <description>David H Gent</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://luckymehra.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>David H Gent</title>
-      <link>/author/david-h-gent/</link>
+      <link>https://luckymehra.com/author/david-h-gent/</link>
     </image>
     
     <item>
       <title>Focus expansion and stability of the spread parameter estimate of the power law model for dispersal gradients</title>
-      <link>/publication/2017-stability-spread-parameter/</link>
+      <link>https://luckymehra.com/publication/2017-stability-spread-parameter/</link>
       <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-stability-spread-parameter/</guid>
+      <guid>https://luckymehra.com/publication/2017-stability-spread-parameter/</guid>
       <description></description>
     </item>
     

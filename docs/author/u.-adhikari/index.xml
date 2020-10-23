@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U. Adhikari | Lucky Mehra</title>
-    <link>/author/u.-adhikari/</link>
-      <atom:link href="/author/u.-adhikari/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://luckymehra.com/author/u.-adhikari/</link>
+      <atom:link href="https://luckymehra.com/author/u.-adhikari/index.xml" rel="self" type="application/rss+xml" />
     <description>U. Adhikari</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://luckymehra.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>U. Adhikari</title>
-      <link>/author/u.-adhikari/</link>
+      <link>https://luckymehra.com/author/u.-adhikari/</link>
     </image>
     
     <item>
       <title>Septoria nodorum blotch of wheat</title>
-      <link>/publication/2019-snb-disease-lesson/</link>
+      <link>https://luckymehra.com/publication/2019-snb-disease-lesson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-snb-disease-lesson/</guid>
+      <guid>https://luckymehra.com/publication/2019-snb-disease-lesson/</guid>
       <description></description>
     </item>
     

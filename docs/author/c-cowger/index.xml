@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C Cowger | Lucky Mehra</title>
-    <link>/author/c-cowger/</link>
-      <atom:link href="/author/c-cowger/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://luckymehra.com/author/c-cowger/</link>
+      <atom:link href="https://luckymehra.com/author/c-cowger/index.xml" rel="self" type="application/rss+xml" />
     <description>C Cowger</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 16 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://luckymehra.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>C Cowger</title>
-      <link>/author/c-cowger/</link>
+      <link>https://luckymehra.com/author/c-cowger/</link>
     </image>
     
     <item>
       <title>A model for predicting onset of Stagonospora nodorum blotch in winter wheat based on preplanting and weather factors</title>
-      <link>/publication/2017-snb-weather-model/</link>
+      <link>https://luckymehra.com/publication/2017-snb-weather-model/</link>
       <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-snb-weather-model/</guid>
+      <guid>https://luckymehra.com/publication/2017-snb-weather-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying the effects of wheat residue on severity of Stagonospora nodorum blotch and yield in winter wheat</title>
-      <link>/publication/2015-wheat-residue/</link>
+      <link>https://luckymehra.com/publication/2015-wheat-residue/</link>
       <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-wheat-residue/</guid>
+      <guid>https://luckymehra.com/publication/2015-wheat-residue/</guid>
       <description></description>
     </item>
     
